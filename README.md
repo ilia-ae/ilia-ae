@@ -1,9 +1,14 @@
 <p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
-<h1 align="center">Ilia Arestov · ilia.ae</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4DD1&height=180&section=header&text=Ilia%20Arestov&fontColor=ffffff&fontSize=50&desc=ilia.ae&descSize=20&descAlignY=74&animation=fadeIn" alt="Ilia Arestov · ilia.ae · Fractional CTO" width="100%"/>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3BInfrastructure%20%C2%B7%20Security%20%C2%B7%20AI%3BVoice%20systems%20%C2%B7%20Hardware%20%C2%B7%20Radio" alt="Fractional CTO · infrastructure, security, AI agents and voice systems"/></p>
 
 <p align="center"><b>Fractional CTO · infrastructure, security, AI agents and voice systems</b><br/>
-Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patents · products used in 38 countries</p>
+Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patents · products used in 38 countries<br/>
+<sub>Operating a 187-node multi-tenant fleet across four layers: Hetzner bare metal · hypervisors (ESXi/Proxmox) · routers &amp; firewalls (OPNsense/pfSense) · 135 guest VMs · 53 service instances across 22 service types.</sub></p>
 
 <p align="center">
 <a href="https://ilia.ae/en/home/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>
@@ -23,7 +28,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 
 ### Tech stack
 
-**💻 Languages**
+<sub>click a group to expand</sub>
+
+<details>
+<summary><b>💻 Languages</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -47,7 +55,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <img src="https://img.shields.io/badge/Tact-0098EA?style=for-the-badge" alt="Tact"/>
 </p>
 
-**☁️ Cloud**
+</details>
+
+<details>
+<summary><b>☁️ Cloud</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS"/>
@@ -60,7 +71,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <img src="https://img.shields.io/badge/Selectel-E5262A?style=for-the-badge" alt="Selectel"/>
 </p>
 
-**🏗️ Infrastructure as code**
+</details>
+
+<details>
+<summary><b>🏗️ Infrastructure as code</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
@@ -79,7 +93,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-**🧪 CI & testing**
+</details>
+
+<details>
+<summary><b>🧪 CI & testing</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
@@ -107,7 +124,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <img src="https://img.shields.io/badge/SOPS%20round--trip%20tests-3A3A3A?style=for-the-badge" alt="SOPS round-trip tests"/>
 </p>
 
-**🌐 Network & edge**
+</details>
+
+<details>
+<summary><b>🌐 Network & edge</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
@@ -124,7 +144,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/>
 </p>
 
-**🛡️ Security & secrets**
+</details>
+
+<details>
+<summary><b>🛡️ Security & secrets</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/>
@@ -145,7 +168,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <img src="https://img.shields.io/badge/Prompt--injection%20defence-B71C1C?style=for-the-badge" alt="Prompt-injection defence"/>
 </p>
 
-**🔎 Forensics & DFIR**
+</details>
+
+<details>
+<summary><b>🔎 Forensics & DFIR</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Volatility%203-2F2F2F?style=for-the-badge" alt="Volatility 3"/>
@@ -157,7 +183,10 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 
 Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT and $UsnJrnl, User Access Logging (SUM), Recycle Bin, plus file listings and memory filescan.
 
-**🔑 Hardware keys & smartcards**
+</details>
+
+<details>
+<summary><b>🔑 Hardware keys & smartcards</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/>
@@ -179,7 +208,10 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <img src="https://img.shields.io/badge/CoolWallet-1E2A38?style=for-the-badge" alt="CoolWallet"/>
 </p>
 
-**🪙 Crypto & Web3**
+</details>
+
+<details>
+<summary><b>🪙 Crypto & Web3</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/>
@@ -194,7 +226,10 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/>
 </p>
 
-**📞 VoIP**
+</details>
+
+<details>
+<summary><b>📞 VoIP</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/>
@@ -211,7 +246,10 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
 </p>
 
-**📨 Messaging & brokers**
+</details>
+
+<details>
+<summary><b>📨 Messaging & brokers</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/EMQX-6E44FF?style=for-the-badge&logo=emqx&logoColor=white" alt="EMQX"/>
@@ -225,7 +263,26 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <img src="https://img.shields.io/badge/MTProto%20%28gotd%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="MTProto (gotd)"/>
 </p>
 
-**📈 Observability & data**
+</details>
+
+<details>
+<summary><b>📧 Mail & groupware</b></summary>
+
+<p>
+<img src="https://img.shields.io/badge/Kerio%20Connect-0067B1?style=for-the-badge" alt="Kerio Connect"/>
+<img src="https://img.shields.io/badge/Kerio%20Operator-0067B1?style=for-the-badge" alt="Kerio Operator"/>
+<img src="https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=for-the-badge" alt="Microsoft Exchange"/>
+<img src="https://img.shields.io/badge/Stalwart%20Mail-D7263D?style=for-the-badge" alt="Stalwart Mail"/>
+<img src="https://img.shields.io/badge/Postfix-909090?style=for-the-badge" alt="Postfix"/>
+<img src="https://img.shields.io/badge/Dovecot-1A6DB5?style=for-the-badge" alt="Dovecot"/>
+<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud"/>
+<img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=black" alt="Veeam Backup"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>📈 Observability & data</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
@@ -243,7 +300,10 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/>
 </p>
 
-**📱 Apps & web**
+</details>
+
+<details>
+<summary><b>📱 Apps & web</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -257,7 +317,10 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
-**📡 Hardware, radio & IoT**
+</details>
+
+<details>
+<summary><b>📡 Hardware, radio & IoT</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/>
@@ -282,7 +345,10 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/>
 </p>
 
-**🤖 AI: what I build now**
+</details>
+
+<details>
+<summary><b>🤖 AI: what I build now</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
@@ -307,6 +373,8 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 
 Self-hosted agents that run my infrastructure and inbox with hard limits in code; an autonomous AI red-team platform with immutable scope and budgets (see 🛡️); AI-driven control of IT-department work.
 
+</details>
+
 ### Open source
 
 | Project | What it is |
@@ -330,8 +398,12 @@ Self-hosted agents that run my infrastructure and inbox with hard limits in code
 
 ### Recent writing
 
+<!-- BLOG-POST-LIST:START -->
 - [An AI agent with access to production: the boundary lives in code](https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/)
 - [Kubernetes cluster on your own hardware: build and harden](https://ilia.ae/en/blog/digital/kubernetes-cluster-on-your-own-hardware/)
 - [OpenBao secrets store: Shamir shares and hardware keys](https://ilia.ae/en/blog/infosec/openbao-secrets-store/)
 - [My crypto hardware stack: 11 devices, zero trust](https://ilia.ae/en/blog/infosec/crypto-hardware-wallet-security-stack/)
 - [Production Proxmox cluster as code](https://ilia.ae/en/blog/digital/proxmox-cluster-infrastructure-as-code/)
+<!-- BLOG-POST-LIST:END -->
+
+<sub>auto-updated daily from the site RSS</sub>
