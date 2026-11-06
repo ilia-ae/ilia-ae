@@ -1,9 +1,14 @@
 <p align="right"><a href="README.md">English</a> · <b>Русский</b></p>
 
-<h1 align="center">Ilia Arestov · ilia.ae</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4DD1&height=180&section=header&text=Ilia%20Arestov&fontColor=ffffff&fontSize=50&desc=ilia.ae&descSize=20&descAlignY=74&animation=fadeIn" alt="Ilia Arestov · ilia.ae · Fractional CTO" width="100%"/>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3B%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%C2%B7%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%C2%B7%20%D0%98%D0%98%3B%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8%D1%8F%20%C2%B7%20%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE%20%C2%B7%20%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE" alt="Fractional CTO · инфраструктура, безопасность, ИИ-агенты и телефония"/></p>
 
 <p align="center"><b>Fractional CTO · инфраструктура, безопасность, ИИ-агенты и телефония</b><br/>
-Руководил командами 100+ инженеров · 1000+ проектов (GovTech, биометрия) · 6 патентов · продукты в 38 странах</p>
+Руководил командами 100+ инженеров · 1000+ проектов (GovTech, биометрия) · 6 патентов · продукты в 38 странах<br/>
+<sub>Веду парк из 187 узлов на четырёх уровнях: железо Hetzner · гипервизоры (ESXi/Proxmox) · роутеры и фаерволы (OPNsense/pfSense) · 135 гостевых ВМ · 53 экземпляра сервисов 22 видов.</sub></p>
 
 <p align="center">
 <a href="https://ilia.ae/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>
@@ -23,7 +28,10 @@
 
 ### Стек
 
-**💻 Языки**
+<sub>нажмите на группу, чтобы раскрыть</sub>
+
+<details>
+<summary><b>💻 Языки</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
@@ -47,7 +55,10 @@
 <img src="https://img.shields.io/badge/Tact-0098EA?style=for-the-badge" alt="Tact"/>
 </p>
 
-**☁️ Облака**
+</details>
+
+<details>
+<summary><b>☁️ Облака</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS"/>
@@ -60,7 +71,10 @@
 <img src="https://img.shields.io/badge/Selectel-E5262A?style=for-the-badge" alt="Selectel"/>
 </p>
 
-**🏗️ Инфраструктура как код**
+</details>
+
+<details>
+<summary><b>🏗️ Инфраструктура как код</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
@@ -79,7 +93,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-**🧪 CI и тесты**
+</details>
+
+<details>
+<summary><b>🧪 CI и тесты</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
@@ -107,7 +124,10 @@
 <img src="https://img.shields.io/badge/SOPS%20round--trip%20tests-3A3A3A?style=for-the-badge" alt="SOPS round-trip tests"/>
 </p>
 
-**🌐 Сеть и периметр**
+</details>
+
+<details>
+<summary><b>🌐 Сеть и периметр</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
@@ -124,7 +144,10 @@
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/>
 </p>
 
-**🛡️ Безопасность и секреты**
+</details>
+
+<details>
+<summary><b>🛡️ Безопасность и секреты</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/>
@@ -145,7 +168,10 @@
 <img src="https://img.shields.io/badge/Prompt--injection%20defence-B71C1C?style=for-the-badge" alt="Prompt-injection defence"/>
 </p>
 
-**🔎 Форензика и DFIR**
+</details>
+
+<details>
+<summary><b>🔎 Форензика и DFIR</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Volatility%203-2F2F2F?style=for-the-badge" alt="Volatility 3"/>
@@ -157,7 +183,10 @@
 
 Артефакты Windows, с которыми работаю: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT и $UsnJrnl, User Access Logging (SUM), Корзина, а также листинги файловой системы и filescan по дампу памяти.
 
-**🔑 Аппаратные ключи и смарт-карты**
+</details>
+
+<details>
+<summary><b>🔑 Аппаратные ключи и смарт-карты</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/>
@@ -179,7 +208,10 @@
 <img src="https://img.shields.io/badge/CoolWallet-1E2A38?style=for-the-badge" alt="CoolWallet"/>
 </p>
 
-**🪙 Крипто и Web3**
+</details>
+
+<details>
+<summary><b>🪙 Крипто и Web3</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/>
@@ -194,7 +226,10 @@
 <img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/>
 </p>
 
-**📞 Телефония (VoIP)**
+</details>
+
+<details>
+<summary><b>📞 Телефония (VoIP)</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/>
@@ -211,7 +246,10 @@
 <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
 </p>
 
-**📨 Мессенджеры и брокеры**
+</details>
+
+<details>
+<summary><b>📨 Мессенджеры и брокеры</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/EMQX-6E44FF?style=for-the-badge&logo=emqx&logoColor=white" alt="EMQX"/>
@@ -225,7 +263,26 @@
 <img src="https://img.shields.io/badge/MTProto%20%28gotd%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="MTProto (gotd)"/>
 </p>
 
-**📈 Мониторинг и данные**
+</details>
+
+<details>
+<summary><b>📧 Почта и совместная работа</b></summary>
+
+<p>
+<img src="https://img.shields.io/badge/Kerio%20Connect-0067B1?style=for-the-badge" alt="Kerio Connect"/>
+<img src="https://img.shields.io/badge/Kerio%20Operator-0067B1?style=for-the-badge" alt="Kerio Operator"/>
+<img src="https://img.shields.io/badge/Microsoft%20Exchange-0078D4?style=for-the-badge" alt="Microsoft Exchange"/>
+<img src="https://img.shields.io/badge/Stalwart%20Mail-D7263D?style=for-the-badge" alt="Stalwart Mail"/>
+<img src="https://img.shields.io/badge/Postfix-909090?style=for-the-badge" alt="Postfix"/>
+<img src="https://img.shields.io/badge/Dovecot-1A6DB5?style=for-the-badge" alt="Dovecot"/>
+<img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Nextcloud"/>
+<img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=black" alt="Veeam Backup"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>📈 Мониторинг и данные</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
@@ -243,7 +300,10 @@
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/>
 </p>
 
-**📱 Приложения и веб**
+</details>
+
+<details>
+<summary><b>📱 Приложения и веб</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -257,7 +317,10 @@
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
 </p>
 
-**📡 Железо, радио и IoT**
+</details>
+
+<details>
+<summary><b>📡 Железо, радио и IoT</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/>
@@ -282,7 +345,10 @@
 <img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/>
 </p>
 
-**🤖 ИИ: что делаю сейчас**
+</details>
+
+<details>
+<summary><b>🤖 ИИ: что делаю сейчас</b></summary>
 
 <p>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
@@ -307,6 +373,8 @@
 
 Собственные агенты, которые ведут инфраструктуру и почту с жёсткими границами в коде; платформа автономного ИИ-red-team с неизменяемым скоупом и бюджетами (см. 🛡️); контроль работы ИТ-отдела с помощью ИИ.
 
+</details>
+
 ### Открытый код
 
 | Проект | Что это |
@@ -330,8 +398,12 @@
 
 ### Свежие статьи
 
+<!-- BLOG-POST-LIST:START -->
 - [ИИ-агент с доступом к рабочим системам: граница в коде, а не в промпте](https://ilia.ae/articles/it/ii-agent-granica-v-kode/)
 - [Кластер Kubernetes на своих серверах: сборка и защита](https://ilia.ae/articles/it/kubernetes-klaster-na-svoyom-zheleze/)
 - [OpenBao и доли Шамира: как устроено хранилище секретов](https://ilia.ae/articles/security/openbao-hranilishche-sekretov/)
 - [Мой крипто-стек: 11 устройств, нулевое доверие](https://ilia.ae/articles/security/crypto-apparatnye-koshelki-bezopasnost/)
 - [Продакшн-кластер Proxmox как код](https://ilia.ae/articles/it/proxmox-klaster-kak-kod/)
+<!-- BLOG-POST-LIST:END -->
+
+<sub>обновляется автоматически из RSS сайта</sub>
