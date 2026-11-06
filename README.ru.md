@@ -10,9 +10,9 @@
 Руководил командами 100+ инженеров · 1000+ проектов (GovTech, биометрия) · 6 патентов · продукты в 38 странах</p>
 
 <p align="center">
-<a href="https://ilia.ae/">('ilia.ae', '<img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/>', None)</a>
-<a href="https://ilia.ae/articles/">('Блог', '<img src="https://img.shields.io/badge/%D0%91%D0%BB%D0%BE%D0%B3-2B2A28?style=for-the-badge&logo=rss&logoColor=white" alt="Блог"/>', None)</a>
-<a href="https://ilia.ae/contacts/">('Записаться на звонок', '<img src="https://img.shields.io/badge/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%BD%D0%B0%20%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Записаться на звонок"/>', None)</a>
+<a href="https://ilia.ae/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>
+<a href="https://ilia.ae/articles/"><img src="https://img.shields.io/badge/%D0%91%D0%BB%D0%BE%D0%B3-2B2A28?style=for-the-badge&logo=rss&logoColor=white" alt="Блог"/></a>
+<a href="https://ilia.ae/contacts/"><img src="https://img.shields.io/badge/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%BD%D0%B0%20%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Записаться на звонок"/></a>
 </p>
 
 ### Чем занимаюсь
