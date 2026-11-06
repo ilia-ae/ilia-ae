@@ -160,7 +160,7 @@
 <a href="https://github.com/log2timeline/plaso"><img src="https://img.shields.io/badge/Plaso%20%C2%B7%20log2timeline-555555?style=for-the-badge" alt="Plaso · log2timeline"/></a>
 </p>
 
-Артефакты Windows, с которыми работаю: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT и $UsnJrnl, User Access Logging (SUM), Корзина, а также листинги файловой системы и filescan по дампу памяти.
+<a href="https://ilia.ae/services-ru/informacionnaya-bezopasnost/"><img src="assets/dfir.ru.svg" alt="Артефакты Windows, с которыми работаю: Amcache, AppCompatCache (ShimCache), Prefetch, BAM/DAM, UserAssist, ShellBags, Jump Lists, LNK, Корзина, $MFT и $UsnJrnl, листинги файловой системы, SRUM, User Access Logging (SUM) и filescan по дампу памяти." width="100%"/></a>
 
 **🔑 Аппаратные ключи и смарт-карты** <img src="assets/n/17.svg" height="30" align="middle" alt="17"/>
 

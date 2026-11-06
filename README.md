@@ -160,7 +160,7 @@
 <a href="https://github.com/log2timeline/plaso"><img src="https://img.shields.io/badge/Plaso%20%C2%B7%20log2timeline-555555?style=for-the-badge" alt="Plaso · log2timeline"/></a>
 </p>
 
-Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT and $UsnJrnl, User Access Logging (SUM), Recycle Bin, plus file listings and memory filescan.
+<a href="https://ilia.ae/en/solutions/information-security-services/"><img src="assets/dfir.en.svg" alt="Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), Prefetch, BAM/DAM, UserAssist, ShellBags, Jump Lists, LNK, Recycle Bin, $MFT and $UsnJrnl, file system listings, SRUM, User Access Logging (SUM), and filescan on a memory dump." width="100%"/></a>
 
 **🔑 Hardware keys & smartcards** <img src="assets/n/17.svg" height="30" align="middle" alt="17"/>
 
