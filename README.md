@@ -335,7 +335,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/Computer%20vision%20%C2%B7%20OCR-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer vision · OCR"/></a>
 </p>
 
-Self-hosted agents that run my infrastructure and inbox with hard limits in code; an autonomous AI red-team platform with immutable scope and budgets (see 🛡️); AI-driven control of IT-department work.
+Self-hosted agents that run my infrastructure and communications with hard limits in code; autonomous AI platforms for IT: a red-team that attacks my own systems to surface vulnerabilities within an immutable scope and budget (see 🛡️); AI-driven organisation of IT-department work.
 
 <sub>Badges link to my article on the topic when I have one, otherwise the project page.</sub>
 
