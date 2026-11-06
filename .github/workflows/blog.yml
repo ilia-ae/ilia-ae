@@ -11,14 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: English posts -> README.md
-        uses: gautamkrishnar/blog-post-workflow@v1.9.0
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://ilia.ae/en/feed/"
           readme_path: "./README.md"
           max_post_count: 6
           commit_message: "chore: refresh recent writing (EN)"
       - name: Russian posts -> README.ru.md
-        uses: gautamkrishnar/blog-post-workflow@v1.9.0
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://ilia.ae/feed/"
           readme_path: "./README.ru.md"
