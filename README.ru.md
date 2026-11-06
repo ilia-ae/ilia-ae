@@ -358,16 +358,16 @@
 ### Мои открытые проекты
 
 <p align="center">
-<a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.ru.svg" alt="vaultwarden: Подтверждение входа в Vaultwarden с телефона, сквозная подпись. iOS и Android." width="49%"/></a>
-<a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.ru.svg" alt="wg-yubikey-manager: macOS-приложение: конфигурации WireGuard открываются касанием YubiKey." width="49%"/></a>
+<a href="https://ilia.ae/articles/security/vault-approver-vaultwarden-vhod/"><img src="assets/cards/vaultwarden.ru.svg" alt="vaultwarden: Подтверждение входа в Vaultwarden с телефона, сквозная подпись. iOS и Android." width="49%"/></a>
+<a href="https://ilia.ae/articles/security/wireguard-yubikey-manager-apparatnaya-bezopasnost-vpn/"><img src="assets/cards/wg-yubikey-manager.ru.svg" alt="wg-yubikey-manager: macOS-приложение: конфигурации WireGuard открываются касанием YubiKey." width="49%"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.ru.svg" alt="deposit.mayday.software: Доказательство авторства кода: криптографические метки времени с якорением в Bitcoin и Base." width="49%"/></a>
-<a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.ru.svg" alt="fb-agent: Менеджер Fluent Bit одним бинарником для сбора логов на Linux, совместим с VictoriaLogs." width="49%"/></a>
+<a href="https://ilia.ae/articles/it/dokazat-avtorstvo-ne-poteryat-prava/"><img src="assets/cards/deposit.mayday.software.ru.svg" alt="deposit.mayday.software: Доказательство авторства кода: криптографические метки времени с якорением в Bitcoin и Base." width="49%"/></a>
+<a href="https://ilia.ae/articles/security/fb-agent-fluent-bit-linux-go-agent/"><img src="assets/cards/fb-agent.ru.svg" alt="fb-agent: Менеджер Fluent Bit одним бинарником для сбора логов на Linux, совместим с VictoriaLogs." width="49%"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.ru.svg" alt="aliro-mayday: NFC-контроллер доступа Aliro на ESP32-S3 и PN532, настройка через Matter." width="49%"/></a>
-<a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.ru.svg" alt="klipsch_flexus: Интеграция Home Assistant для саундбара Klipsch Flexus CORE 300." width="49%"/></a>
+<a href="https://ilia.ae/cases/aliro-apple-homekey-kontroller/"><img src="assets/cards/aliro-mayday.ru.svg" alt="aliro-mayday: NFC-контроллер доступа Aliro на ESP32-S3 и PN532, настройка через Matter." width="49%"/></a>
+<a href="https://ilia.ae/articles/it/klipsch-flexus-home-assistant-integratsiya/"><img src="assets/cards/klipsch_flexus.ru.svg" alt="klipsch_flexus: Интеграция Home Assistant для саундбара Klipsch Flexus CORE 300." width="49%"/></a>
 </p>
 
-<sub><a href="https://github.com/ilia-ae?tab=repositories">Все репозитории →</a></sub>
+<sub><a href="https://ilia.ae/cases/">Все проекты на сайте →</a></sub>

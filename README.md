@@ -358,16 +358,16 @@
 ### My open source
 
 <p align="center">
-<a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.en.svg" alt="vaultwarden: Approve Vaultwarden logins from your phone, signed end to end. iOS and Android." width="49%"/></a>
-<a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.en.svg" alt="wg-yubikey-manager: A macOS app that unlocks WireGuard configs with a tap of a YubiKey." width="49%"/></a>
+<a href="https://ilia.ae/en/blog/infosec/vault-approver-vaultwarden-login/"><img src="assets/cards/vaultwarden.en.svg" alt="vaultwarden: Approve Vaultwarden logins from your phone, signed end to end. iOS and Android." width="49%"/></a>
+<a href="https://ilia.ae/en/blog/infosec/wireguard-yubikey-manager-hardware-backed-vpn-security/"><img src="assets/cards/wg-yubikey-manager.en.svg" alt="wg-yubikey-manager: A macOS app that unlocks WireGuard configs with a tap of a YubiKey." width="49%"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.en.svg" alt="deposit.mayday.software: Proof of source-code authorship: cryptographic timestamps anchored in Bitcoin and Base." width="49%"/></a>
-<a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.en.svg" alt="fb-agent: A single-binary Fluent Bit manager for Linux log shipping, VictoriaLogs-compatible." width="49%"/></a>
+<a href="https://ilia.ae/en/blog/digital/prove-authorship-keep-rights-court/"><img src="assets/cards/deposit.mayday.software.en.svg" alt="deposit.mayday.software: Proof of source-code authorship: cryptographic timestamps anchored in Bitcoin and Base." width="49%"/></a>
+<a href="https://ilia.ae/en/blog/infosec/fb-agent-fluent-bit-linux-go/"><img src="assets/cards/fb-agent.en.svg" alt="fb-agent: A single-binary Fluent Bit manager for Linux log shipping, VictoriaLogs-compatible." width="49%"/></a>
 </p>
 <p align="center">
-<a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.en.svg" alt="aliro-mayday: An Aliro NFC access controller on ESP32-S3 and PN532, provisioned over Matter." width="49%"/></a>
-<a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.en.svg" alt="klipsch_flexus: A Home Assistant integration for the Klipsch Flexus CORE 300 soundbar." width="49%"/></a>
+<a href="https://ilia.ae/en/projects/apple-homekey-pm3-reader/"><img src="assets/cards/aliro-mayday.en.svg" alt="aliro-mayday: An Aliro NFC access controller on ESP32-S3 and PN532, provisioned over Matter." width="49%"/></a>
+<a href="https://ilia.ae/en/blog/digital/klipsch-flexus-home-assistant-integration/"><img src="assets/cards/klipsch_flexus.en.svg" alt="klipsch_flexus: A Home Assistant integration for the Klipsch Flexus CORE 300 soundbar." width="49%"/></a>
 </p>
 
-<sub><a href="https://github.com/ilia-ae?tab=repositories">All repositories →</a></sub>
+<sub><a href="https://ilia.ae/en/cases/">All projects on the site →</a></sub>
