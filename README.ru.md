@@ -26,9 +26,9 @@
 - **Форензика**: DFIR-разбор Windows-хостов по артефактам реестра, NTFS и памяти.
 - **Железо и радио**: прошивки ESP32, узлы Zigbee и LoRa, брокер EMQX, NFC и Apple Home Key, SDR и DMR.
 
-### Стек <img src="assets/n/224.svg" height="22" alt="224"/>
+### Стек <img src="assets/n/t224.svg" height="38" align="middle" alt="224"/>
 
-**💻 Программирование** <img src="assets/n/19.svg" height="20" alt="19"/>
+**💻 Программирование** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
 <p>
 <a href="https://ilia.ae/articles/security/fb-agent-fluent-bit-linux-go-agent/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
@@ -52,7 +52,7 @@
 <a href="https://tact-lang.org/"><img src="https://img.shields.io/badge/Tact-0098EA?style=for-the-badge" alt="Tact"/></a>
 </p>
 
-**☁️ Облака** <img src="assets/n/8.svg" height="20" alt="8"/>
+**☁️ Облака** <img src="assets/n/8.svg" height="30" align="middle" alt="8"/>
 
 <p>
 <a href="https://www.hetzner.com"><img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"/></a>
@@ -65,7 +65,7 @@
 <a href="https://selectel.ru/"><img src="https://img.shields.io/badge/Selectel-E5262A?style=for-the-badge" alt="Selectel"/></a>
 </p>
 
-**🏗️ Инфраструктура как код** <img src="assets/n/14.svg" height="20" alt="14"/>
+**🏗️ Инфраструктура как код** <img src="assets/n/14.svg" height="30" align="middle" alt="14"/>
 
 <p>
 <a href="https://ilia.ae/articles/security/ansible-wsl-upravlenie-ssh-klyuchami-docker-semaphore/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
@@ -84,7 +84,7 @@
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
-**🧪 CI и тесты** <img src="assets/n/23.svg" height="20" alt="23"/>
+**🧪 CI и тесты** <img src="assets/n/23.svg" height="30" align="middle" alt="23"/>
 
 <p>
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
@@ -112,7 +112,7 @@
 <a href="https://github.com/getsops/sops"><img src="https://img.shields.io/badge/SOPS%20round--trip%20tests-3A3A3A?style=for-the-badge" alt="SOPS round-trip tests"/></a>
 </p>
 
-**🌐 Сеть и периметр** <img src="assets/n/12.svg" height="20" alt="12"/>
+**🌐 Сеть и периметр** <img src="assets/n/12.svg" height="30" align="middle" alt="12"/>
 
 <p>
 <a href="https://ilia.ae/articles/it/obratnyj-proksi-caddy-traefik/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
@@ -129,7 +129,7 @@
 <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/></a>
 </p>
 
-**🛡️ Информационная безопасность** <img src="assets/n/16.svg" height="20" alt="16"/>
+**🛡️ Информационная безопасность** <img src="assets/n/16.svg" height="30" align="middle" alt="16"/>
 
 <p>
 <a href="https://ilia.ae/articles/security/openbao-hranilishche-sekretov/"><img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/></a>
@@ -150,7 +150,7 @@
 <a href="https://genai.owasp.org/llmrisk/llm01-prompt-injection/"><img src="https://img.shields.io/badge/Prompt--injection%20defence-B71C1C?style=for-the-badge" alt="Prompt-injection defence"/></a>
 </p>
 
-**🔎 Форензика и DFIR** <img src="assets/n/5.svg" height="20" alt="5"/>
+**🔎 Форензика и DFIR** <img src="assets/n/5.svg" height="30" align="middle" alt="5"/>
 
 <p>
 <a href="https://github.com/volatilityfoundation/volatility3"><img src="https://img.shields.io/badge/Volatility%203-2F2F2F?style=for-the-badge" alt="Volatility 3"/></a>
@@ -162,7 +162,7 @@
 
 Артефакты Windows, с которыми работаю: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT и $UsnJrnl, User Access Logging (SUM), Корзина, а также листинги файловой системы и filescan по дампу памяти.
 
-**🔑 Аппаратные ключи и смарт-карты** <img src="assets/n/17.svg" height="20" alt="17"/>
+**🔑 Аппаратные ключи и смарт-карты** <img src="assets/n/17.svg" height="30" align="middle" alt="17"/>
 
 <p>
 <a href="https://ilia.ae/articles/security/crypto-apparatnye-koshelki-bezopasnost/"><img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/></a>
@@ -184,7 +184,7 @@
 <a href="https://ilia.ae/articles/security/crypto-apparatnye-koshelki-bezopasnost/"><img src="https://img.shields.io/badge/CoolWallet-1E2A38?style=for-the-badge" alt="CoolWallet"/></a>
 </p>
 
-**🪙 Крипто и Web3** <img src="assets/n/10.svg" height="20" alt="10"/>
+**🪙 Крипто и Web3** <img src="assets/n/10.svg" height="30" align="middle" alt="10"/>
 
 <p>
 <a href="https://ton.org/"><img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/></a>
@@ -199,7 +199,7 @@
 <a href="https://ilia.ae/articles/security/multisig-koshelek-apparatnaya-bezopasnost/"><img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/></a>
 </p>
 
-**📞 Телефония (VoIP)** <img src="assets/n/14.svg" height="20" alt="14"/>
+**📞 Телефония (VoIP)** <img src="assets/n/14.svg" height="30" align="middle" alt="14"/>
 
 <p>
 <a href="https://ilia.ae/articles/security/kamailio-sbc-3cx-sip-bezopasnost-opensips-docker/"><img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/></a>
@@ -218,7 +218,7 @@
 <a href="https://ilia.ae/articles/it/rocketchat-voice-tester-diagnostika/"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/></a>
 </p>
 
-**📨 Мессенджеры и брокеры** <img src="assets/n/9.svg" height="20" alt="9"/>
+**📨 Мессенджеры и брокеры** <img src="assets/n/9.svg" height="30" align="middle" alt="9"/>
 
 <p>
 <a href="https://www.emqx.com"><img src="https://img.shields.io/badge/EMQX-6E44FF?style=for-the-badge&logo=emqx&logoColor=white" alt="EMQX"/></a>
@@ -232,7 +232,7 @@
 <a href="https://github.com/gotd/td"><img src="https://img.shields.io/badge/MTProto%20%28gotd%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="MTProto (gotd)"/></a>
 </p>
 
-**📧 Почта и совместная работа** <img src="assets/n/8.svg" height="20" alt="8"/>
+**📧 Почта и совместная работа** <img src="assets/n/8.svg" height="30" align="middle" alt="8"/>
 
 <p>
 <a href="https://www.gfi.com/products-and-solutions/email-and-messaging-solutions/kerio-connect"><img src="https://img.shields.io/badge/Kerio%20Connect-0067B1?style=for-the-badge" alt="Kerio Connect"/></a>
@@ -245,7 +245,7 @@
 <a href="https://www.veeam.com/"><img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=black" alt="Veeam Backup"/></a>
 </p>
 
-**📈 Мониторинг и данные** <img src="assets/n/13.svg" height="20" alt="13"/>
+**📈 Мониторинг и данные** <img src="assets/n/13.svg" height="30" align="middle" alt="13"/>
 
 <p>
 <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
@@ -263,7 +263,7 @@
 <a href="https://www.metabase.com"><img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
 </p>
 
-**📱 Приложения и веб** <img src="assets/n/9.svg" height="20" alt="9"/>
+**📱 Приложения и веб** <img src="assets/n/9.svg" height="30" align="middle" alt="9"/>
 
 <p>
 <a href="https://ilia.ae/articles/it/mobile-stores-cicd-avtomatizatsiya-ios/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
@@ -277,7 +277,7 @@
 <a href="https://ilia.ae/politika-konfidencialnosti/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
 </p>
 
-**📡 Железо, радио и IoT** <img src="assets/n/20.svg" height="20" alt="20"/>
+**📡 Железо, радио и IoT** <img src="assets/n/20.svg" height="30" align="middle" alt="20"/>
 
 <p>
 <a href="https://ilia.ae/articles/it/lilygo-t-connect-pro-esp32-proshivka/"><img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/></a>
@@ -302,7 +302,7 @@
 <a href="https://ilia.ae/articles/it/roshni-led-kontroller/"><img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/></a>
 </p>
 
-**🤖 ИИ: что делаю сейчас** <img src="assets/n/27.svg" height="20" alt="27"/>
+**🤖 ИИ: что делаю сейчас** <img src="assets/n/27.svg" height="30" align="middle" alt="27"/>
 
 <p>
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></a>
