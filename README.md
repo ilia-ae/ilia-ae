@@ -7,7 +7,7 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3BInfrastructure%20%C2%B7%20Security%20%C2%B7%20AI%3BVoice%20systems%20%C2%B7%20Hardware%20%C2%B7%20Radio" alt="Fractional CTO · infrastructure, security, AI agents and voice systems"/></p>
 
 <p align="center"><b>Fractional CTO · infrastructure, security, AI agents and voice systems</b><br/>
-Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patents · products used in 38 countries</p>
+Led 100+ engineers · 6 patents</p>
 
 <p align="center">
 <a href="https://ilia.ae/en/home/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>
@@ -15,7 +15,7 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <a href="https://ilia.ae/en/feedback/"><img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
-<p align="center"><img src="assets/fleet.en.svg" alt="50+ bare-metal hosts, 300+ virtual machines, self-hosted and multi-tenant" width="620"/></p>
+<p align="center"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects (GovTech, biometrics), 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="700"/></p>
 
 ### What I do
 
@@ -28,8 +28,6 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 - **Hardware and radio**: ESP32 firmware, Zigbee and LoRa nodes, an EMQX broker, NFC and Apple Home Key, SDR and DMR.
 
 ### Tech stack
-
-<sub>badges link to my article on the topic, else the project page</sub>
 
 **💻 Languages**
 
@@ -338,6 +336,8 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 </p>
 
 Self-hosted agents that run my infrastructure and inbox with hard limits in code; an autonomous AI red-team platform with immutable scope and budgets (see 🛡️); AI-driven control of IT-department work.
+
+<sub>Badges link to my article on the topic when I have one, otherwise the project page.</sub>
 
 ### Open source
 

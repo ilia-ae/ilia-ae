@@ -7,7 +7,7 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3B%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%C2%B7%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%C2%B7%20%D0%98%D0%98%3B%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8%D1%8F%20%C2%B7%20%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE%20%C2%B7%20%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE" alt="Fractional CTO · инфраструктура, безопасность, ИИ-агенты и телефония"/></p>
 
 <p align="center"><b>Fractional CTO · инфраструктура, безопасность, ИИ-агенты и телефония</b><br/>
-Руководил командами 100+ инженеров · 1000+ проектов (GovTech, биометрия) · 6 патентов · продукты в 38 странах</p>
+Руководил командами 100+ инженеров · 6 патентов</p>
 
 <p align="center">
 <a href="https://ilia.ae/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>
@@ -15,7 +15,7 @@
 <a href="https://ilia.ae/contacts/"><img src="https://img.shields.io/badge/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%BD%D0%B0%20%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Записаться на звонок"/></a>
 </p>
 
-<p align="center"><img src="assets/fleet.ru.svg" alt="50+ физических серверов, 300+ виртуальных машин, свой парк на несколько клиентов" width="620"/></p>
+<p align="center"><img src="assets/fleet.ru.svg" alt="Сделано: 1000+ проектов (GovTech, биометрия), 50k+ пользователей, 38 стран. Свой парк: 50+ физических серверов, 300+ виртуальных машин." width="700"/></p>
 
 ### Чем занимаюсь
 
@@ -29,9 +29,7 @@
 
 ### Стек
 
-<sub>бейдж ведёт на мою статью по теме, иначе на страницу проекта</sub>
-
-**💻 Языки**
+**💻 Программирование**
 
 <p>
 <a href="https://ilia.ae/articles/security/fb-agent-fluent-bit-linux-go-agent/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
@@ -338,6 +336,8 @@
 </p>
 
 Собственные агенты, которые ведут инфраструктуру и почту с жёсткими границами в коде; платформа автономного ИИ-red-team с неизменяемым скоупом и бюджетами (см. 🛡️); контроль работы ИТ-отдела с помощью ИИ.
+
+<sub>Бейдж ведёт на мою статью по теме, если она есть, иначе на страницу проекта.</sub>
 
 ### Открытый код
 
