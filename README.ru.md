@@ -15,7 +15,7 @@
 <a href="https://ilia.ae/contacts/"><img src="https://img.shields.io/badge/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%BD%D0%B0%20%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Записаться на звонок"/></a>
 </p>
 
-<p align="center"><img src="assets/fleet.ru.svg" alt="Сделано: 1000+ проектов (GovTech, биометрия), 50k+ пользователей, 38 стран. Свой парк: 50+ физических серверов, 300+ виртуальных машин." width="700"/></p>
+<p align="center"><img src="assets/fleet.ru.svg" alt="Сделано: 1000+ проектов (GovTech, биометрия), 50k+ пользователей, 38 стран. Свой парк: 50+ физических серверов, 300+ виртуальных машин." width="100%"/></p>
 
 ### Чем занимаюсь
 
@@ -27,12 +27,13 @@
 - **Форензика**: DFIR-разбор Windows-хостов по артефактам реестра, NTFS и памяти.
 - **Железо и радио**: прошивки ESP32, узлы Zigbee и LoRa, брокер EMQX, NFC и Apple Home Key, SDR и DMR.
 
-### Стек
+### Стек <sub>· 224</sub>
 
-**💻 Программирование**
+**💻 Программирование** <sub>· 19</sub>
 
 <p>
 <a href="https://ilia.ae/articles/security/fb-agent-fluent-bit-linux-go-agent/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
 <a href="https://ilia.ae/articles/it/uae-stars-auktsionnaya-platforma/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
 <a href="https://ilia.ae/articles/it/mobile-stores-cicd-avtomatizatsiya-ios/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/></a>
@@ -48,12 +49,11 @@
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
 <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
 <a href="https://ilia.ae/articles/it/openclaw-logs-monitoring-infrastruktury/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></a>
-<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
 <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>
 <a href="https://tact-lang.org/"><img src="https://img.shields.io/badge/Tact-0098EA?style=for-the-badge" alt="Tact"/></a>
 </p>
 
-**☁️ Облака**
+**☁️ Облака** <sub>· 8</sub>
 
 <p>
 <a href="https://www.hetzner.com"><img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"/></a>
@@ -66,7 +66,7 @@
 <a href="https://selectel.ru/"><img src="https://img.shields.io/badge/Selectel-E5262A?style=for-the-badge" alt="Selectel"/></a>
 </p>
 
-**🏗️ Инфраструктура как код**
+**🏗️ Инфраструктура как код** <sub>· 14</sub>
 
 <p>
 <a href="https://ilia.ae/articles/security/ansible-wsl-upravlenie-ssh-klyuchami-docker-semaphore/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
@@ -85,7 +85,7 @@
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
-**🧪 CI и тесты**
+**🧪 CI и тесты** <sub>· 23</sub>
 
 <p>
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
@@ -113,7 +113,7 @@
 <a href="https://github.com/getsops/sops"><img src="https://img.shields.io/badge/SOPS%20round--trip%20tests-3A3A3A?style=for-the-badge" alt="SOPS round-trip tests"/></a>
 </p>
 
-**🌐 Сеть и периметр**
+**🌐 Сеть и периметр** <sub>· 12</sub>
 
 <p>
 <a href="https://ilia.ae/articles/it/obratnyj-proksi-caddy-traefik/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
@@ -130,7 +130,7 @@
 <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/></a>
 </p>
 
-**🛡️ Информационная безопасность**
+**🛡️ Информационная безопасность** <sub>· 16</sub>
 
 <p>
 <a href="https://ilia.ae/articles/security/openbao-hranilishche-sekretov/"><img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/></a>
@@ -151,7 +151,7 @@
 <a href="https://genai.owasp.org/llmrisk/llm01-prompt-injection/"><img src="https://img.shields.io/badge/Prompt--injection%20defence-B71C1C?style=for-the-badge" alt="Prompt-injection defence"/></a>
 </p>
 
-**🔎 Форензика и DFIR**
+**🔎 Форензика и DFIR** <sub>· 5</sub>
 
 <p>
 <a href="https://github.com/volatilityfoundation/volatility3"><img src="https://img.shields.io/badge/Volatility%203-2F2F2F?style=for-the-badge" alt="Volatility 3"/></a>
@@ -163,7 +163,7 @@
 
 Артефакты Windows, с которыми работаю: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT и $UsnJrnl, User Access Logging (SUM), Корзина, а также листинги файловой системы и filescan по дампу памяти.
 
-**🔑 Аппаратные ключи и смарт-карты**
+**🔑 Аппаратные ключи и смарт-карты** <sub>· 17</sub>
 
 <p>
 <a href="https://ilia.ae/articles/security/crypto-apparatnye-koshelki-bezopasnost/"><img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/></a>
@@ -185,7 +185,7 @@
 <a href="https://ilia.ae/articles/security/crypto-apparatnye-koshelki-bezopasnost/"><img src="https://img.shields.io/badge/CoolWallet-1E2A38?style=for-the-badge" alt="CoolWallet"/></a>
 </p>
 
-**🪙 Крипто и Web3**
+**🪙 Крипто и Web3** <sub>· 10</sub>
 
 <p>
 <a href="https://ton.org/"><img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/></a>
@@ -200,7 +200,7 @@
 <a href="https://ilia.ae/articles/security/multisig-koshelek-apparatnaya-bezopasnost/"><img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/></a>
 </p>
 
-**📞 Телефония (VoIP)**
+**📞 Телефония (VoIP)** <sub>· 14</sub>
 
 <p>
 <a href="https://ilia.ae/articles/security/kamailio-sbc-3cx-sip-bezopasnost-opensips-docker/"><img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/></a>
@@ -219,7 +219,7 @@
 <a href="https://ilia.ae/articles/it/rocketchat-voice-tester-diagnostika/"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/></a>
 </p>
 
-**📨 Мессенджеры и брокеры**
+**📨 Мессенджеры и брокеры** <sub>· 9</sub>
 
 <p>
 <a href="https://www.emqx.com"><img src="https://img.shields.io/badge/EMQX-6E44FF?style=for-the-badge&logo=emqx&logoColor=white" alt="EMQX"/></a>
@@ -233,7 +233,7 @@
 <a href="https://github.com/gotd/td"><img src="https://img.shields.io/badge/MTProto%20%28gotd%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="MTProto (gotd)"/></a>
 </p>
 
-**📧 Почта и совместная работа**
+**📧 Почта и совместная работа** <sub>· 8</sub>
 
 <p>
 <a href="https://www.gfi.com/products-and-solutions/email-and-messaging-solutions/kerio-connect"><img src="https://img.shields.io/badge/Kerio%20Connect-0067B1?style=for-the-badge" alt="Kerio Connect"/></a>
@@ -246,7 +246,7 @@
 <a href="https://www.veeam.com/"><img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=black" alt="Veeam Backup"/></a>
 </p>
 
-**📈 Мониторинг и данные**
+**📈 Мониторинг и данные** <sub>· 13</sub>
 
 <p>
 <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
@@ -264,7 +264,7 @@
 <a href="https://www.metabase.com"><img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
 </p>
 
-**📱 Приложения и веб**
+**📱 Приложения и веб** <sub>· 9</sub>
 
 <p>
 <a href="https://ilia.ae/articles/it/mobile-stores-cicd-avtomatizatsiya-ios/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
@@ -278,7 +278,7 @@
 <a href="https://ilia.ae/politika-konfidencialnosti/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
 </p>
 
-**📡 Железо, радио и IoT**
+**📡 Железо, радио и IoT** <sub>· 20</sub>
 
 <p>
 <a href="https://ilia.ae/articles/it/lilygo-t-connect-pro-esp32-proshivka/"><img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/></a>
@@ -303,7 +303,7 @@
 <a href="https://ilia.ae/articles/it/roshni-led-kontroller/"><img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/></a>
 </p>
 
-**🤖 ИИ: что делаю сейчас**
+**🤖 ИИ: что делаю сейчас** <sub>· 27</sub>
 
 <p>
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></a>
@@ -339,34 +339,6 @@
 
 <sub>Бейдж ведёт на мою статью по теме, если она есть, иначе на страницу проекта.</sub>
 
-### Открытый код
-
-<table><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.ru.svg" alt="deposit.mayday.software" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.ru.svg" alt="vaultwarden" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.ru.svg" alt="wg-yubikey-manager" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.ru.svg" alt="fb-agent" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/integrity"><img src="assets/cards/integrity.ru.svg" alt="integrity" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/fleetforge-workspace-releases"><img src="assets/cards/fleetforge-workspace-releases.ru.svg" alt="fleetforge-workspace-releases" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.ru.svg" alt="aliro-mayday" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/zignode"><img src="assets/cards/zignode.ru.svg" alt="zignode" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.ru.svg" alt="klipsch_flexus" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/m5paper_esphome"><img src="assets/cards/m5paper_esphome.ru.svg" alt="m5paper_esphome" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/rpm-fun_esphome"><img src="assets/cards/rpm-fun_esphome.ru.svg" alt="rpm-fun_esphome" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/caas"><img src="assets/cards/caas.ru.svg" alt="caas" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/1C_HMAC"><img src="assets/cards/1C_HMAC.ru.svg" alt="1C_HMAC" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/JugglucoNG"><img src="assets/cards/JugglucoNG.ru.svg" alt="JugglucoNG" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/HomeKey-ESP32"><img src="assets/cards/HomeKey-ESP32.ru.svg" alt="HomeKey-ESP32" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/agency-agents"><img src="assets/cards/agency-agents.ru.svg" alt="agency-agents" width="100%"/></a></td>
-</tr></table>
-
 ### Свежие статьи
 
 <!-- BLOG-POST-LIST:START -->
@@ -378,3 +350,18 @@
 <!-- BLOG-POST-LIST:END -->
 
 <sub>обновляется автоматически из RSS сайта</sub>
+
+### Мои открытые проекты
+
+<table><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.ru.svg" alt="vaultwarden" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.ru.svg" alt="wg-yubikey-manager" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.ru.svg" alt="deposit.mayday.software" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.ru.svg" alt="fb-agent" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.ru.svg" alt="aliro-mayday" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.ru.svg" alt="klipsch_flexus" width="100%"/></a></td>
+</tr></table>
+
+<sub><a href="https://github.com/ilia-ae?tab=repositories">Все репозитории →</a></sub>

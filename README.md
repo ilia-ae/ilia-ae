@@ -15,7 +15,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://ilia.ae/en/feedback/"><img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
-<p align="center"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects (GovTech, biometrics), 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="700"/></p>
+<p align="center"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects (GovTech, biometrics), 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="100%"/></p>
 
 ### What I do
 
@@ -27,12 +27,13 @@ Led 100+ engineers · 6 patents</p>
 - **Forensics**: DFIR triage of Windows hosts from registry, NTFS and memory artifacts.
 - **Hardware and radio**: ESP32 firmware, Zigbee and LoRa nodes, an EMQX broker, NFC and Apple Home Key, SDR and DMR.
 
-### Tech stack
+### Tech stack <sub>· 224</sub>
 
-**💻 Languages**
+**💻 Languages** <sub>· 19</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/fb-agent-fluent-bit-linux-go/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
 <a href="https://ilia.ae/en/blog/digital/uae-stars-b2b-auction-platform/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
 <a href="https://ilia.ae/en/blog/digital/mobile-stores-cicd-ios-automation/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/></a>
@@ -48,12 +49,11 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
 <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></a>
-<a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
 <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/></a>
 <a href="https://tact-lang.org/"><img src="https://img.shields.io/badge/Tact-0098EA?style=for-the-badge" alt="Tact"/></a>
 </p>
 
-**☁️ Cloud**
+**☁️ Cloud** <sub>· 8</sub>
 
 <p>
 <a href="https://www.hetzner.com"><img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"/></a>
@@ -66,7 +66,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://selectel.ru/"><img src="https://img.shields.io/badge/Selectel-E5262A?style=for-the-badge" alt="Selectel"/></a>
 </p>
 
-**🏗️ Infrastructure as code**
+**🏗️ Infrastructure as code** <sub>· 14</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/ansible-wsl-ssh-key-management-docker-semaphore/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
@@ -85,7 +85,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
-**🧪 CI & testing**
+**🧪 CI & testing** <sub>· 23</sub>
 
 <p>
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
@@ -113,7 +113,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://github.com/getsops/sops"><img src="https://img.shields.io/badge/SOPS%20round--trip%20tests-3A3A3A?style=for-the-badge" alt="SOPS round-trip tests"/></a>
 </p>
 
-**🌐 Network & edge**
+**🌐 Network & edge** <sub>· 12</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/digital/reverse-proxy-caddy-traefik/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
@@ -130,7 +130,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/></a>
 </p>
 
-**🛡️ Security & secrets**
+**🛡️ Security & secrets** <sub>· 16</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/openbao-secrets-store/"><img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/></a>
@@ -151,7 +151,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://genai.owasp.org/llmrisk/llm01-prompt-injection/"><img src="https://img.shields.io/badge/Prompt--injection%20defence-B71C1C?style=for-the-badge" alt="Prompt-injection defence"/></a>
 </p>
 
-**🔎 Forensics & DFIR**
+**🔎 Forensics & DFIR** <sub>· 5</sub>
 
 <p>
 <a href="https://github.com/volatilityfoundation/volatility3"><img src="https://img.shields.io/badge/Volatility%203-2F2F2F?style=for-the-badge" alt="Volatility 3"/></a>
@@ -163,7 +163,7 @@ Led 100+ engineers · 6 patents</p>
 
 Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT and $UsnJrnl, User Access Logging (SUM), Recycle Bin, plus file listings and memory filescan.
 
-**🔑 Hardware keys & smartcards**
+**🔑 Hardware keys & smartcards** <sub>· 17</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/crypto-hardware-wallet-security-stack/"><img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/></a>
@@ -185,7 +185,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/infosec/crypto-hardware-wallet-security-stack/"><img src="https://img.shields.io/badge/CoolWallet-1E2A38?style=for-the-badge" alt="CoolWallet"/></a>
 </p>
 
-**🪙 Crypto & Web3**
+**🪙 Crypto & Web3** <sub>· 10</sub>
 
 <p>
 <a href="https://ton.org/"><img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/></a>
@@ -200,7 +200,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/infosec/multisig-wallet-hardware-security/"><img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/></a>
 </p>
 
-**📞 VoIP**
+**📞 VoIP** <sub>· 14</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/kamailio-sbc-3cx-sip-security-opensips-docker/"><img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/></a>
@@ -219,7 +219,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/digital/rocketchat-voice-tester/"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/></a>
 </p>
 
-**📨 Messaging & brokers**
+**📨 Messaging & brokers** <sub>· 9</sub>
 
 <p>
 <a href="https://www.emqx.com"><img src="https://img.shields.io/badge/EMQX-6E44FF?style=for-the-badge&logo=emqx&logoColor=white" alt="EMQX"/></a>
@@ -233,7 +233,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://github.com/gotd/td"><img src="https://img.shields.io/badge/MTProto%20%28gotd%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="MTProto (gotd)"/></a>
 </p>
 
-**📧 Mail & groupware**
+**📧 Mail & groupware** <sub>· 8</sub>
 
 <p>
 <a href="https://www.gfi.com/products-and-solutions/email-and-messaging-solutions/kerio-connect"><img src="https://img.shields.io/badge/Kerio%20Connect-0067B1?style=for-the-badge" alt="Kerio Connect"/></a>
@@ -246,7 +246,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://www.veeam.com/"><img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=black" alt="Veeam Backup"/></a>
 </p>
 
-**📈 Observability & data**
+**📈 Observability & data** <sub>· 13</sub>
 
 <p>
 <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
@@ -264,7 +264,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://www.metabase.com"><img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
 </p>
 
-**📱 Apps & web**
+**📱 Apps & web** <sub>· 9</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/digital/mobile-stores-cicd-ios-automation/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
@@ -278,7 +278,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
 </p>
 
-**📡 Hardware, radio & IoT**
+**📡 Hardware, radio & IoT** <sub>· 20</sub>
 
 <p>
 <a href="https://ilia.ae/en/blog/digital/lilygo-t-connect-pro-esp32-firmware/"><img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/></a>
@@ -303,7 +303,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/digital/roshni-led-controller/"><img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/></a>
 </p>
 
-**🤖 AI: what I build now**
+**🤖 AI: what I build now** <sub>· 27</sub>
 
 <p>
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></a>
@@ -339,34 +339,6 @@ Self-hosted agents that run my infrastructure and communications with hard limit
 
 <sub>Badges link to my article on the topic when I have one, otherwise the project page.</sub>
 
-### Open source
-
-<table><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.en.svg" alt="deposit.mayday.software" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.en.svg" alt="vaultwarden" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.en.svg" alt="wg-yubikey-manager" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.en.svg" alt="fb-agent" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/integrity"><img src="assets/cards/integrity.en.svg" alt="integrity" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/fleetforge-workspace-releases"><img src="assets/cards/fleetforge-workspace-releases.en.svg" alt="fleetforge-workspace-releases" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.en.svg" alt="aliro-mayday" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/zignode"><img src="assets/cards/zignode.en.svg" alt="zignode" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.en.svg" alt="klipsch_flexus" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/m5paper_esphome"><img src="assets/cards/m5paper_esphome.en.svg" alt="m5paper_esphome" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/rpm-fun_esphome"><img src="assets/cards/rpm-fun_esphome.en.svg" alt="rpm-fun_esphome" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/caas"><img src="assets/cards/caas.en.svg" alt="caas" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/1C_HMAC"><img src="assets/cards/1C_HMAC.en.svg" alt="1C_HMAC" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/JugglucoNG"><img src="assets/cards/JugglucoNG.en.svg" alt="JugglucoNG" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/HomeKey-ESP32"><img src="assets/cards/HomeKey-ESP32.en.svg" alt="HomeKey-ESP32" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/agency-agents"><img src="assets/cards/agency-agents.en.svg" alt="agency-agents" width="100%"/></a></td>
-</tr></table>
-
 ### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
@@ -378,3 +350,18 @@ Self-hosted agents that run my infrastructure and communications with hard limit
 <!-- BLOG-POST-LIST:END -->
 
 <sub>auto-updated daily from the site RSS</sub>
+
+### My open source
+
+<table><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.en.svg" alt="vaultwarden" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.en.svg" alt="wg-yubikey-manager" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.en.svg" alt="deposit.mayday.software" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.en.svg" alt="fb-agent" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.en.svg" alt="aliro-mayday" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.en.svg" alt="klipsch_flexus" width="100%"/></a></td>
+</tr></table>
+
+<sub><a href="https://github.com/ilia-ae?tab=repositories">All repositories →</a></sub>
