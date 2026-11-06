@@ -399,11 +399,12 @@ Self-hosted agents that run my infrastructure and inbox with hard limits in code
 ### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI agent with access to production: the boundary lives in code](https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/)
-- [Kubernetes cluster on your own hardware: build and harden](https://ilia.ae/en/blog/digital/kubernetes-cluster-on-your-own-hardware/)
-- [OpenBao secrets store: Shamir shares and hardware keys](https://ilia.ae/en/blog/infosec/openbao-secrets-store/)
-- [My crypto hardware stack: 11 devices, zero trust](https://ilia.ae/en/blog/infosec/crypto-hardware-wallet-security-stack/)
-- [Production Proxmox cluster as code](https://ilia.ae/en/blog/digital/proxmox-cluster-infrastructure-as-code/)
+- [Russia regulations for tech companies: 152-FZ, critical infrastructure, e-documents, signatures and the Bank of Russia](https://ilia.ae/en/blog/infosec/russia-regulations-for-tech-companies/)
+- [CIS regulations for tech companies: Kazakhstan, Uzbekistan, Kyrgyzstan, Belarus, Armenia and Azerbaijan](https://ilia.ae/en/blog/infosec/cis-regulations-for-tech-companies/)
+- [Gulf regulations for tech companies: Saudi Arabia, Qatar, Bahrain, Oman, Kuwait and Egypt](https://ilia.ae/en/blog/infosec/gulf-regulations-for-tech-companies/)
+- [Vendor lock-in: what a technical audit should check besides the code](https://ilia.ae/en/blog/digital/vendor-lock-in-audit/)
+- [UAE regulations for tech companies: data, cybersecurity, e-invoicing and e-signatures](https://ilia.ae/en/blog/infosec/uae-regulations-for-tech-companies/)
+- [An AI agent with access to production: the boundary lives in code, not in the prompt](https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>auto-updated daily from the site RSS</sub>
