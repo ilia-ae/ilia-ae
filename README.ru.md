@@ -6,8 +6,7 @@
 
 <p align="center"><a href="https://ilia.ae/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3B%D0%98%D0%BD%D1%84%D1%80%D0%B0%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%C2%B7%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%C2%B7%20%D0%98%D0%98%3B%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8%D1%8F%20%C2%B7%20%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE%20%C2%B7%20%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE" alt="Fractional CTO · инфраструктура, безопасность, ИИ-агенты и телефония"/></a></p>
 
-<p align="center"><b>Fractional CTO · инфраструктура, безопасность, ИИ-агенты и телефония</b><br/>
-Руководил командами 100+ инженеров · 6 патентов</p>
+<p align="center"><b>Fractional CTO · инфраструктура, безопасность, ИИ-агенты и телефония</b></p>
 
 <p align="center">
 <a href="https://ilia.ae/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>

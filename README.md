@@ -6,8 +6,7 @@
 
 <p align="center"><a href="https://ilia.ae/en/home/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3BInfrastructure%20%C2%B7%20Security%20%C2%B7%20AI%3BVoice%20systems%20%C2%B7%20Hardware%20%C2%B7%20Radio" alt="Fractional CTO · infrastructure, security, AI agents and voice systems"/></a></p>
 
-<p align="center"><b>Fractional CTO · infrastructure, security, AI agents and voice systems</b><br/>
-Led 100+ engineers · 6 patents</p>
+<p align="center"><b>Fractional CTO · infrastructure, security, AI agents and voice systems</b></p>
 
 <p align="center">
 <a href="https://ilia.ae/en/home/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>
