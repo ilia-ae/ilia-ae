@@ -1,10 +1,10 @@
 <p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B4DD1&height=180&section=header&text=Ilia%20Arestov&fontColor=ffffff&fontSize=50&desc=ilia.ae&descSize=20&descAlignY=74&animation=fadeIn" alt="Ilia Arestov · ilia.ae · Fractional CTO" width="100%"/>
+<a href="https://ilia.ae/en/home/"><img src="https://capsule-render.vercel.app/api?type=waving&color=1B4DD1&height=180&section=header&text=Ilia%20Arestov&fontColor=ffffff&fontSize=50&desc=ilia.ae&descSize=20&descAlignY=74&animation=fadeIn" alt="Ilia Arestov · ilia.ae · Fractional CTO" width="100%"/></a>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3BInfrastructure%20%C2%B7%20Security%20%C2%B7%20AI%3BVoice%20systems%20%C2%B7%20Hardware%20%C2%B7%20Radio" alt="Fractional CTO · infrastructure, security, AI agents and voice systems"/></p>
+<p align="center"><a href="https://ilia.ae/en/home/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=1B4DD1&center=true&vCenter=true&width=640&height=46&lines=Fractional%20CTO%3BInfrastructure%20%C2%B7%20Security%20%C2%B7%20AI%3BVoice%20systems%20%C2%B7%20Hardware%20%C2%B7%20Radio" alt="Fractional CTO · infrastructure, security, AI agents and voice systems"/></a></p>
 
 <p align="center"><b>Fractional CTO · infrastructure, security, AI agents and voice systems</b><br/>
 Led 100+ engineers · 6 patents</p>
@@ -15,7 +15,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://ilia.ae/en/feedback/"><img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
-<p align="center"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects, 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="100%"/></p>
+<p align="center"><a href="https://ilia.ae/en/about/"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects, 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="100%"/></a></p>
 
 ### What I do
 
@@ -27,9 +27,9 @@ Led 100+ engineers · 6 patents</p>
 - **Forensics**: DFIR triage of Windows hosts from registry, NTFS and memory artifacts.
 - **Hardware and radio**: ESP32 firmware, Zigbee and LoRa nodes, an EMQX broker, NFC and Apple Home Key, SDR and DMR.
 
-### Tech stack <sub>· 224</sub>
+### Tech stack <img src="assets/n/224.svg" height="22" alt="224"/>
 
-**💻 Languages** <sub>· 19</sub>
+**💻 Languages** <img src="assets/n/19.svg" height="20" alt="19"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/fb-agent-fluent-bit-linux-go/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
@@ -53,7 +53,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://tact-lang.org/"><img src="https://img.shields.io/badge/Tact-0098EA?style=for-the-badge" alt="Tact"/></a>
 </p>
 
-**☁️ Cloud** <sub>· 8</sub>
+**☁️ Cloud** <img src="assets/n/8.svg" height="20" alt="8"/>
 
 <p>
 <a href="https://www.hetzner.com"><img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"/></a>
@@ -66,7 +66,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://selectel.ru/"><img src="https://img.shields.io/badge/Selectel-E5262A?style=for-the-badge" alt="Selectel"/></a>
 </p>
 
-**🏗️ Infrastructure as code** <sub>· 14</sub>
+**🏗️ Infrastructure as code** <img src="assets/n/14.svg" height="20" alt="14"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/ansible-wsl-ssh-key-management-docker-semaphore/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
@@ -85,7 +85,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
 </p>
 
-**🧪 CI & testing** <sub>· 23</sub>
+**🧪 CI & testing** <img src="assets/n/23.svg" height="20" alt="23"/>
 
 <p>
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
@@ -113,7 +113,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://github.com/getsops/sops"><img src="https://img.shields.io/badge/SOPS%20round--trip%20tests-3A3A3A?style=for-the-badge" alt="SOPS round-trip tests"/></a>
 </p>
 
-**🌐 Network & edge** <sub>· 12</sub>
+**🌐 Network & edge** <img src="assets/n/12.svg" height="20" alt="12"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/digital/reverse-proxy-caddy-traefik/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
@@ -130,7 +130,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/></a>
 </p>
 
-**🛡️ Security & secrets** <sub>· 16</sub>
+**🛡️ Security & secrets** <img src="assets/n/16.svg" height="20" alt="16"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/openbao-secrets-store/"><img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/></a>
@@ -151,7 +151,7 @@ Led 100+ engineers · 6 patents</p>
 <a href="https://genai.owasp.org/llmrisk/llm01-prompt-injection/"><img src="https://img.shields.io/badge/Prompt--injection%20defence-B71C1C?style=for-the-badge" alt="Prompt-injection defence"/></a>
 </p>
 
-**🔎 Forensics & DFIR** <sub>· 5</sub>
+**🔎 Forensics & DFIR** <img src="assets/n/5.svg" height="20" alt="5"/>
 
 <p>
 <a href="https://github.com/volatilityfoundation/volatility3"><img src="https://img.shields.io/badge/Volatility%203-2F2F2F?style=for-the-badge" alt="Volatility 3"/></a>
@@ -163,7 +163,7 @@ Led 100+ engineers · 6 patents</p>
 
 Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, UserAssist, Jump Lists, LNK, Prefetch, BAM/DAM, SRUM, $MFT and $UsnJrnl, User Access Logging (SUM), Recycle Bin, plus file listings and memory filescan.
 
-**🔑 Hardware keys & smartcards** <sub>· 17</sub>
+**🔑 Hardware keys & smartcards** <img src="assets/n/17.svg" height="20" alt="17"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/crypto-hardware-wallet-security-stack/"><img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/></a>
@@ -185,7 +185,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/infosec/crypto-hardware-wallet-security-stack/"><img src="https://img.shields.io/badge/CoolWallet-1E2A38?style=for-the-badge" alt="CoolWallet"/></a>
 </p>
 
-**🪙 Crypto & Web3** <sub>· 10</sub>
+**🪙 Crypto & Web3** <img src="assets/n/10.svg" height="20" alt="10"/>
 
 <p>
 <a href="https://ton.org/"><img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON"/></a>
@@ -200,7 +200,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/infosec/multisig-wallet-hardware-security/"><img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/></a>
 </p>
 
-**📞 VoIP** <sub>· 14</sub>
+**📞 VoIP** <img src="assets/n/14.svg" height="20" alt="14"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/infosec/kamailio-sbc-3cx-sip-security-opensips-docker/"><img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/></a>
@@ -219,7 +219,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/digital/rocketchat-voice-tester/"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/></a>
 </p>
 
-**📨 Messaging & brokers** <sub>· 9</sub>
+**📨 Messaging & brokers** <img src="assets/n/9.svg" height="20" alt="9"/>
 
 <p>
 <a href="https://www.emqx.com"><img src="https://img.shields.io/badge/EMQX-6E44FF?style=for-the-badge&logo=emqx&logoColor=white" alt="EMQX"/></a>
@@ -233,7 +233,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://github.com/gotd/td"><img src="https://img.shields.io/badge/MTProto%20%28gotd%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="MTProto (gotd)"/></a>
 </p>
 
-**📧 Mail & groupware** <sub>· 8</sub>
+**📧 Mail & groupware** <img src="assets/n/8.svg" height="20" alt="8"/>
 
 <p>
 <a href="https://www.gfi.com/products-and-solutions/email-and-messaging-solutions/kerio-connect"><img src="https://img.shields.io/badge/Kerio%20Connect-0067B1?style=for-the-badge" alt="Kerio Connect"/></a>
@@ -246,7 +246,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://www.veeam.com/"><img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=black" alt="Veeam Backup"/></a>
 </p>
 
-**📈 Observability & data** <sub>· 13</sub>
+**📈 Observability & data** <img src="assets/n/13.svg" height="20" alt="13"/>
 
 <p>
 <a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
@@ -264,7 +264,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://www.metabase.com"><img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></a>
 </p>
 
-**📱 Apps & web** <sub>· 9</sub>
+**📱 Apps & web** <img src="assets/n/9.svg" height="20" alt="9"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/digital/mobile-stores-cicd-ios-automation/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
@@ -278,7 +278,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
 </p>
 
-**📡 Hardware, radio & IoT** <sub>· 20</sub>
+**📡 Hardware, radio & IoT** <img src="assets/n/20.svg" height="20" alt="20"/>
 
 <p>
 <a href="https://ilia.ae/en/blog/digital/lilygo-t-connect-pro-esp32-firmware/"><img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/></a>
@@ -303,7 +303,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://ilia.ae/en/blog/digital/roshni-led-controller/"><img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/></a>
 </p>
 
-**🤖 AI: what I build now** <sub>· 27</sub>
+**🤖 AI: what I build now** <img src="assets/n/27.svg" height="20" alt="27"/>
 
 <p>
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></a>
@@ -335,7 +335,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/Computer%20vision%20%C2%B7%20OCR-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer vision · OCR"/></a>
 </p>
 
-Self-hosted agents that run my infrastructure and communications with hard limits in code; autonomous AI platforms for IT: a red-team that attacks my own systems to surface vulnerabilities within an immutable scope and budget (see 🛡️); AI-driven organisation of IT-department work.
+<a href="https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/"><img src="assets/ai.en.svg" alt="Own AI engine: hardware, services, software, users. On top of it: agents that run infrastructure and communications; an autonomous red team that attacks our own services and finds vulnerabilities; IT department work organised with AI." width="100%"/></a>
 
 <sub>Badges link to my article on the topic when I have one, otherwise the project page.</sub>
 
