@@ -27,14 +27,14 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 
 ### Tech stack
 
-<sub>badges link to each project</sub>
+<sub>badges link to my article on the topic, else the project page</sub>
 
 **💻 Languages**
 
 <p>
 <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
 <a href="https://angular.dev"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://ilia.ae/en/blog/digital/mobile-stores-cicd-ios-automation/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
 <a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" alt="PowerShell"/></a>
@@ -57,29 +57,29 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 
 <p>
 <a href="https://www.hetzner.com"><img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner"/></a>
-<a href="https://www.cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
+<a href="https://ilia.ae/en/blog/infosec/cloudflare-telegram-bot-dns-ssl-management/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS"/></a>
 <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure"/></a>
 <a href="https://workers.cloudflare.com/"><img src="https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Workers"/></a>
-<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/></a>
+<a href="https://ilia.ae/en/blog/infosec/nuke-device-remote-android-wipe-firebase/"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/></a>
 <a href="https://selectel.ru/"><img src="https://img.shields.io/badge/Selectel-E5262A?style=for-the-badge" alt="Selectel"/></a>
 </p>
 
 **🏗️ Infrastructure as code**
 
 <p>
-<a href="https://www.ansible.com"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
+<a href="https://ilia.ae/en/blog/infosec/ansible-wsl-ssh-key-management-docker-semaphore/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
 <a href="https://developer.hashicorp.com/terraform"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-<a href="https://www.proxmox.com/en/products/proxmox-virtual-environment/overview"><img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE"/></a>
+<a href="https://ilia.ae/en/blog/digital/proxmox-cluster-infrastructure-as-code/"><img src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE"/></a>
 <a href="https://www.proxmox.com/en/products/proxmox-backup-server/overview"><img src="https://img.shields.io/badge/Proxmox%20Backup%20Server-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox Backup Server"/></a>
 <a href="https://www.vmware.com/products/cloud-infrastructure/esxi-and-esx"><img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi"/></a>
-<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://ilia.ae/en/blog/digital/kubernetes-cluster-on-your-own-hardware/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+<a href="https://ilia.ae/en/blog/infosec/kamailio-sbc-3cx-sip-security-opensips-docker/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
 <a href="https://linuxcontainers.org/lxc/"><img src="https://img.shields.io/badge/LXC-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white" alt="LXC"/></a>
-<a href="https://ceph.io/"><img src="https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph"/></a>
-<a href="https://openzfs.org"><img src="https://img.shields.io/badge/OpenZFS-2A667F?style=for-the-badge&logo=openzfs&logoColor=white" alt="OpenZFS"/></a>
-<a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+<a href="https://ilia.ae/en/blog/digital/ceph-or-zfs/"><img src="https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph"/></a>
+<a href="https://ilia.ae/en/blog/digital/ceph-or-zfs/"><img src="https://img.shields.io/badge/OpenZFS-2A667F?style=for-the-badge&logo=openzfs&logoColor=white" alt="OpenZFS"/></a>
+<a href="https://ilia.ae/en/blog/infosec/fb-agent-fluent-bit-linux-go/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
 <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
@@ -117,12 +117,12 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 
 <p>
 <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
-<a href="https://traefik.io/"><img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/></a>
-<a href="https://caddyserver.com/"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy"/></a>
+<a href="https://ilia.ae/en/blog/digital/reverse-proxy-caddy-traefik/"><img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/></a>
+<a href="https://ilia.ae/en/blog/digital/reverse-proxy-caddy-traefik/"><img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy"/></a>
 <a href="https://www.haproxy.org"><img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy"/></a>
 <a href="https://www.keepalived.org/"><img src="https://img.shields.io/badge/Keepalived-4A4A4A?style=for-the-badge" alt="Keepalived"/></a>
-<a href="https://www.wireguard.com/"><img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/></a>
-<a href="https://www.zerotier.com"><img src="https://img.shields.io/badge/ZeroTier-FFB441?style=for-the-badge&logo=zerotier&logoColor=black" alt="ZeroTier"/></a>
+<a href="https://ilia.ae/en/?p=9428"><img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/></a>
+<a href="https://ilia.ae/en/?p=9428"><img src="https://img.shields.io/badge/ZeroTier-FFB441?style=for-the-badge&logo=zerotier&logoColor=black" alt="ZeroTier"/></a>
 <a href="https://opnsense.org"><img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white" alt="OPNsense"/></a>
 <a href="https://www.pfsense.org/"><img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense"/></a>
 <a href="https://mikrotik.com"><img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/></a>
@@ -133,19 +133,19 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 **🛡️ Security & secrets**
 
 <p>
-<a href="https://www.vaultproject.io/"><img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/></a>
+<a href="https://ilia.ae/en/blog/infosec/openbao-secrets-store/"><img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/></a>
 <a href="https://github.com/getsops/sops"><img src="https://img.shields.io/badge/SOPS%20%2B%20age-3A3A3A?style=for-the-badge" alt="SOPS + age"/></a>
-<a href="https://gnupg.org/"><img src="https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GnuPG"/></a>
+<a href="https://ilia.ae/en/blog/infosec/gpg-yubikey-scdaemon-macos-retry/"><img src="https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="GnuPG"/></a>
 <a href="https://www.rfc-editor.org/rfc/rfc8446"><img src="https://img.shields.io/badge/mTLS%20%2F%20PKI-1B4DD1?style=for-the-badge" alt="mTLS / PKI"/></a>
 <a href="https://letsencrypt.org/"><img src="https://img.shields.io/badge/Let%27s%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Let's Encrypt"/></a>
 <a href="https://www.openssl.org"><img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL"/></a>
-<a href="https://github.com/dani-garcia/vaultwarden"><img src="https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=vaultwarden&logoColor=white" alt="Vaultwarden"/></a>
+<a href="https://ilia.ae/en/blog/infosec/vault-approver-vaultwarden-login/"><img src="https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=vaultwarden&logoColor=white" alt="Vaultwarden"/></a>
 <a href="https://wazuh.com/"><img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh"/></a>
 <a href="https://suricata.io/"><img src="https://img.shields.io/badge/Suricata-EF7D00?style=for-the-badge" alt="Suricata"/></a>
 <a href="https://keylime.dev/"><img src="https://img.shields.io/badge/Keylime-2F5FA8?style=for-the-badge" alt="Keylime"/></a>
 <a href="https://cisofy.com/lynis/"><img src="https://img.shields.io/badge/Hardening%3A%20Lynis%2C%20OpenSCAP-3A3A3A?style=for-the-badge" alt="Hardening: Lynis, OpenSCAP"/></a>
 <a href="https://learn.microsoft.com/mem/intune/"><img src="https://img.shields.io/badge/Intune%20MDM-0078D4?style=for-the-badge" alt="Intune MDM"/></a>
-<a href="https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing"><img src="https://img.shields.io/badge/Shamir%27s%20Secret%20Sharing-2F2F2F?style=for-the-badge" alt="Shamir's Secret Sharing"/></a>
+<a href="https://ilia.ae/en/blog/infosec/openbao-secrets-store/"><img src="https://img.shields.io/badge/Shamir%27s%20Secret%20Sharing-2F2F2F?style=for-the-badge" alt="Shamir's Secret Sharing"/></a>
 <a href="https://github.com/vxcontrol/pentagi"><img src="https://img.shields.io/badge/AI%20red%20team%20%C2%B7%20PentAGI-B71C1C?style=for-the-badge" alt="AI red team · PentAGI"/></a>
 <a href="https://genai.owasp.org/llm-top-10/"><img src="https://img.shields.io/badge/LLM%20guardrails%20%C2%B7%20OWASP%20LLM%20Top%2010-B71C1C?style=for-the-badge" alt="LLM guardrails · OWASP LLM Top 10"/></a>
 <a href="https://genai.owasp.org/llmrisk/llm01-prompt-injection/"><img src="https://img.shields.io/badge/Prompt--injection%20defence-B71C1C?style=for-the-badge" alt="Prompt-injection defence"/></a>
@@ -166,7 +166,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 **🔑 Hardware keys & smartcards**
 
 <p>
-<a href="https://www.yubico.com"><img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/></a>
+<a href="https://ilia.ae/en/blog/infosec/gpg-yubikey-scdaemon-macos-retry/"><img src="https://img.shields.io/badge/YubiKey-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiKey"/></a>
 <a href="https://www.yubico.com/products/hardware-security-module/"><img src="https://img.shields.io/badge/YubiHSM%202-84BD00?style=for-the-badge&logo=yubico&logoColor=white" alt="YubiHSM 2"/></a>
 <a href="https://cloud.google.com/titan-security-key"><img src="https://img.shields.io/badge/Google%20Titan-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Titan"/></a>
 <a href="https://www.rutoken.ru/"><img src="https://img.shields.io/badge/Rutoken-D52B1E?style=for-the-badge" alt="Rutoken"/></a>
@@ -197,13 +197,13 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://base.org/"><img src="https://img.shields.io/badge/Base%20L2-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Base L2"/></a>
 <a href="https://viem.sh/"><img src="https://img.shields.io/badge/viem-1E1E20?style=for-the-badge" alt="viem"/></a>
 <a href="https://github.com/bitcoin/bips"><img src="https://img.shields.io/badge/BIP39%20%C2%B7%20BIP32-F7931A?style=for-the-badge" alt="BIP39 · BIP32"/></a>
-<a href="https://sparrowwallet.com/"><img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/></a>
+<a href="https://ilia.ae/en/blog/infosec/multisig-wallet-hardware-security/"><img src="https://img.shields.io/badge/Multisig%3A%20Sparrow%2C%20Safe-12FF80?style=for-the-badge" alt="Multisig: Sparrow, Safe"/></a>
 </p>
 
 **📞 VoIP**
 
 <p>
-<a href="https://www.kamailio.org/"><img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/></a>
+<a href="https://ilia.ae/en/blog/infosec/kamailio-sbc-3cx-sip-security-opensips-docker/"><img src="https://img.shields.io/badge/Kamailio-5D2A8C?style=for-the-badge" alt="Kamailio"/></a>
 <a href="https://github.com/sipwise/rtpengine"><img src="https://img.shields.io/badge/RTPEngine-5D2A8C?style=for-the-badge" alt="RTPEngine"/></a>
 <a href="https://www.rfc-editor.org/rfc/rfc3550"><img src="https://img.shields.io/badge/RTP%20%C2%B7%20RTCP-555555?style=for-the-badge" alt="RTP · RTCP"/></a>
 <a href="https://www.rfc-editor.org/rfc/rfc5630"><img src="https://img.shields.io/badge/SIP%20over%20TLS-1B4DD1?style=for-the-badge" alt="SIP over TLS"/></a>
@@ -211,12 +211,12 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://datatracker.ietf.org/doc/html/rfc6189"><img src="https://img.shields.io/badge/ZRTP-1B4DD1?style=for-the-badge" alt="ZRTP"/></a>
 <a href="https://datatracker.ietf.org/doc/html/rfc5764"><img src="https://img.shields.io/badge/DTLS--SRTP-1B4DD1?style=for-the-badge" alt="DTLS-SRTP"/></a>
 <a href="https://www.kamailio.org/docs/modules/stable/modules/dmq.html"><img src="https://img.shields.io/badge/Kamailio%20DMQ%20cluster-5D2A8C?style=for-the-badge" alt="Kamailio DMQ cluster"/></a>
-<a href="https://www.asterisk.org/"><img src="https://img.shields.io/badge/Asterisk-F68F1E?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk"/></a>
-<a href="https://www.3cx.com/"><img src="https://img.shields.io/badge/3CX-00A3E0?style=for-the-badge" alt="3CX"/></a>
+<a href="https://ilia.ae/en/blog/digital/asterisk-sip-agent-secure-telephony/"><img src="https://img.shields.io/badge/Asterisk-F68F1E?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk"/></a>
+<a href="https://ilia.ae/en/blog/infosec/kamailio-sbc-3cx-sip-security-opensips-docker/"><img src="https://img.shields.io/badge/3CX-00A3E0?style=for-the-badge" alt="3CX"/></a>
 <a href="https://gfi.ai/products-and-solutions/network-security-solutions/keriooperator"><img src="https://img.shields.io/badge/Kerio%20Operator-0067B1?style=for-the-badge" alt="Kerio Operator"/></a>
 <a href="https://en.wikipedia.org/wiki/VoIP_gateway"><img src="https://img.shields.io/badge/GoIP%20GSM%20gateways-555555?style=for-the-badge" alt="GoIP GSM gateways"/></a>
 <a href="https://sipcapture.org/"><img src="https://img.shields.io/badge/Homer%20SIP%20capture-1F6FEB?style=for-the-badge" alt="Homer SIP capture"/></a>
-<a href="https://webrtc.org/"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/></a>
+<a href="https://ilia.ae/en/blog/digital/rocketchat-voice-tester/"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/></a>
 </p>
 
 **📨 Messaging & brokers**
@@ -227,8 +227,8 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka"/></a>
 <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/></a>
 <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-<a href="https://www.rocket.chat"><img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=for-the-badge&logo=rocketdotchat&logoColor=white" alt="Rocket.Chat"/></a>
-<a href="https://xmpp.org"><img src="https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=white" alt="XMPP"/></a>
+<a href="https://ilia.ae/en/blog/digital/rocketchat-voice-tester/"><img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=for-the-badge&logo=rocketdotchat&logoColor=white" alt="Rocket.Chat"/></a>
+<a href="https://ilia.ae/en/blog/digital/snikket-xmpp-server-manager-turn-sslh/"><img src="https://img.shields.io/badge/XMPP-002B5C?style=for-the-badge&logo=xmpp&logoColor=white" alt="XMPP"/></a>
 <a href="https://core.telegram.org/bots"><img src="https://img.shields.io/badge/Telegram%20bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bots"/></a>
 <a href="https://github.com/gotd/td"><img src="https://img.shields.io/badge/MTProto%20%28gotd%29-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="MTProto (gotd)"/></a>
 </p>
@@ -253,7 +253,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
 <a href="https://victoriametrics.com"><img src="https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logo=victoriametrics&logoColor=white" alt="VictoriaMetrics"/></a>
 <a href="https://victoriametrics.com/products/victorialogs/"><img src="https://img.shields.io/badge/VictoriaLogs-621773?style=for-the-badge&logo=victoriametrics&logoColor=white" alt="VictoriaLogs"/></a>
-<a href="https://fluentbit.io/"><img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white" alt="Fluent Bit"/></a>
+<a href="https://ilia.ae/en/blog/infosec/fb-agent-fluent-bit-linux-go/"><img src="https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white" alt="Fluent Bit"/></a>
 <a href="https://github.com/louislam/uptime-kuma"><img src="https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=black" alt="Uptime Kuma"/></a>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
@@ -269,29 +269,29 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <p>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+<a href="https://ilia.ae/en/blog/digital/ble-kz-esp32-presence-tracker/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
 <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
 <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/></a>
-<a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+<a href="https://ilia.ae/en/blog/digital/self-hosted-team-messenger-chat/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
 </p>
 
 **📡 Hardware, radio & IoT**
 
 <p>
-<a href="https://www.espressif.com/en/products/socs"><img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/></a>
+<a href="https://ilia.ae/en/blog/digital/lilygo-t-connect-pro-esp32-firmware/"><img src="https://img.shields.io/badge/ESP32%20%C2%B7%20S3%20%C2%B7%20C6%20%C2%B7%20H2-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 · S3 · C6 · H2"/></a>
 <a href="https://idf.espressif.com"><img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP-IDF"/></a>
-<a href="https://esphome.io"><img src="https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white" alt="ESPHome"/></a>
+<a href="https://ilia.ae/en/blog/digital/m5paper-esphome-smart-home-dashboard/"><img src="https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white" alt="ESPHome"/></a>
 <a href="https://platformio.org"><img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/></a>
-<a href="https://www.home-assistant.io"><img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"/></a>
+<a href="https://ilia.ae/en/blog/digital/klipsch-flexus-home-assistant-integration/"><img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant"/></a>
 <a href="https://csa-iot.org/all-solutions/zigbee/"><img src="https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white" alt="Zigbee"/></a>
 <a href="https://www.bluetooth.com/"><img src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Bluetooth LE"/></a>
 <a href="https://meshtastic.org/"><img src="https://img.shields.io/badge/LoRa%20%C2%B7%20Meshtastic-67EA94?style=for-the-badge" alt="LoRa · Meshtastic"/></a>
-<a href="https://github.com/RfidResearchGroup/proxmark3"><img src="https://img.shields.io/badge/Proxmark3-444444?style=for-the-badge" alt="Proxmark3"/></a>
+<a href="https://ilia.ae/en/projects/apple-homekey-pm3-reader/"><img src="https://img.shields.io/badge/Proxmark3-444444?style=for-the-badge" alt="Proxmark3"/></a>
 <a href="https://www.nxp.com/products/:PN532"><img src="https://img.shields.io/badge/PN532%20NFC-444444?style=for-the-badge" alt="PN532 NFC"/></a>
-<a href="https://csa-iot.org/all-solutions/aliro/"><img src="https://img.shields.io/badge/Aliro%20%C2%B7%20Apple%20Home%20Key-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Aliro · Apple Home Key"/></a>
+<a href="https://ilia.ae/en/projects/apple-homekey-pm3-reader/"><img src="https://img.shields.io/badge/Aliro%20%C2%B7%20Apple%20Home%20Key-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Aliro · Apple Home Key"/></a>
 <a href="https://flipperzero.one/"><img src="https://img.shields.io/badge/Flipper%20Zero-FF8200?style=for-the-badge" alt="Flipper Zero"/></a>
 <a href="https://greatscottgadgets.com/hackrf/"><img src="https://img.shields.io/badge/SDR%3A%20HackRF%2C%20RTL--SDR-333333?style=for-the-badge" alt="SDR: HackRF, RTL-SDR"/></a>
 <a href="https://github.com/g4klx/MMDVMHost"><img src="https://img.shields.io/badge/DMR%20%C2%B7%20MMDVM-555555?style=for-the-badge" alt="DMR · MMDVM"/></a>
@@ -300,7 +300,7 @@ Windows artifacts I work with: Amcache, AppCompatCache (ShimCache), ShellBags, U
 <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/></a>
 <a href="https://m5stack.com/"><img src="https://img.shields.io/badge/M5Stack-E00000?style=for-the-badge" alt="M5Stack"/></a>
 <a href="https://lilygo.cc/"><img src="https://img.shields.io/badge/LILYGO-333333?style=for-the-badge" alt="LILYGO"/></a>
-<a href="https://www.pjrc.com/teensy/"><img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/></a>
+<a href="https://ilia.ae/en/blog/digital/roshni-led-controller/"><img src="https://img.shields.io/badge/Teensy%204.1-6B8E23?style=for-the-badge" alt="Teensy 4.1"/></a>
 </p>
 
 **🤖 AI: what I build now**
@@ -361,12 +361,11 @@ Self-hosted agents that run my infrastructure and inbox with hard limits in code
 ### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Russia regulations for tech companies: 152-FZ, critical infrastructure, e-documents, signatures and the Bank of Russia](https://ilia.ae/en/blog/infosec/russia-regulations-for-tech-companies/)
-- [CIS regulations for tech companies: Kazakhstan, Uzbekistan, Kyrgyzstan, Belarus, Armenia and Azerbaijan](https://ilia.ae/en/blog/infosec/cis-regulations-for-tech-companies/)
-- [Gulf regulations for tech companies: Saudi Arabia, Qatar, Bahrain, Oman, Kuwait and Egypt](https://ilia.ae/en/blog/infosec/gulf-regulations-for-tech-companies/)
-- [Vendor lock-in: what a technical audit should check besides the code](https://ilia.ae/en/blog/digital/vendor-lock-in-audit/)
-- [UAE regulations for tech companies: data, cybersecurity, e-invoicing and e-signatures](https://ilia.ae/en/blog/infosec/uae-regulations-for-tech-companies/)
-- [An AI agent with access to production: the boundary lives in code, not in the prompt](https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/)
+- [An AI agent with access to production: the boundary lives in code](https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/)
+- [Kubernetes cluster on your own hardware: build and harden](https://ilia.ae/en/blog/digital/kubernetes-cluster-on-your-own-hardware/)
+- [OpenBao secrets store: Shamir shares and hardware keys](https://ilia.ae/en/blog/infosec/openbao-secrets-store/)
+- [My crypto hardware stack: 11 devices, zero trust](https://ilia.ae/en/blog/infosec/crypto-hardware-wallet-security-stack/)
+- [Production Proxmox cluster as code](https://ilia.ae/en/blog/digital/proxmox-cluster-infrastructure-as-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>auto-updated daily from the site RSS</sub>
