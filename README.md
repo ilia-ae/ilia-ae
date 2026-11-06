@@ -14,7 +14,7 @@
 <a href="https://ilia.ae/en/feedback/"><img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
-<p align="center"><a href="https://ilia.ae/en/about/"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects, 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="100%"/></a></p>
+<p align="center"><a href="https://ilia.ae/en/home/"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects, 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="100%"/></a></p>
 
 ### What I do
 
