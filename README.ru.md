@@ -399,11 +399,12 @@
 ### Свежие статьи
 
 <!-- BLOG-POST-LIST:START -->
+- [Регулирование в России для ИТ-компании: 152-ФЗ, КИИ, ЭДО, подпись и Банк России](https://ilia.ae/articles/security/regulirovanie-v-rossii-dlya-it/)
+- [Регулирование в СНГ для ИТ-компании: Казахстан, Узбекистан, Кыргызстан, Беларусь, Армения и Азербайджан](https://ilia.ae/articles/security/regulirovanie-v-sng-dlya-it/)
+- [Регулирование в странах Залива для ИТ-компании: Саудовская Аравия, Катар, Бахрейн, Оман, Кувейт и Египет](https://ilia.ae/articles/security/regulirovanie-v-stranah-zaliva-dlya-it/)
+- [Зависимость от поставщика: что проверять в техническом аудите кроме кода](https://ilia.ae/articles/it/zavisimost-ot-postavshchika/)
+- [Регулирование в ОАЭ для ИТ-компании: данные, кибербезопасность, счета и подпись](https://ilia.ae/articles/security/regulirovanie-v-oae-dlya-it-kompanii/)
 - [ИИ-агент с доступом к рабочим системам: граница в коде, а не в промпте](https://ilia.ae/articles/it/ii-agent-granica-v-kode/)
-- [Кластер Kubernetes на своих серверах: сборка и защита](https://ilia.ae/articles/it/kubernetes-klaster-na-svoyom-zheleze/)
-- [OpenBao и доли Шамира: как устроено хранилище секретов](https://ilia.ae/articles/security/openbao-hranilishche-sekretov/)
-- [Мой крипто-стек: 11 устройств, нулевое доверие](https://ilia.ae/articles/security/crypto-apparatnye-koshelki-bezopasnost/)
-- [Продакшн-кластер Proxmox как код](https://ilia.ae/articles/it/proxmox-klaster-kak-kod/)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>обновляется автоматически из RSS сайта</sub>
