@@ -1,0 +1,85 @@
+#!/usr/bin/env python3
+"""GitHub stats card, drawn in the profile style (no third-party stats service).
+
+    python3 stats.py      -> assets/stats.en.svg, assets/stats.ru.svg
+
+Runs daily in .github/workflows/blog.yml with the workflow's GITHUB_TOKEN, so the numbers
+match what a visitor sees on the profile. Locally it falls back to `gh auth token`.
+Only aggregate counts are drawn; no repository names.
+"""
+import json, os, subprocess, urllib.request
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+LOGIN = "ilia-ae"
+Q = """{user(login:"%s"){
+  repositories(ownerAffiliations:OWNER,privacy:PUBLIC,isFork:false,first:100){totalCount nodes{stargazerCount}}
+  contributionsCollection{totalCommitContributions totalPullRequestContributions totalIssueContributions
+    contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}""" % LOGIN
+TXT = {"en": dict(c="contributions", m="commits", p="pull requests", i="issues", r="public repos", s="stars",
+                  year="activity over the last 12 months, by week"),
+       "ru": dict(c="вклад за год", m="коммитов", p="pull request'ов", i="задач", r="открытых репозиториев", s="звёзд",
+                  year="активность за последние 12 месяцев, по неделям")}
+
+
+def fetch():
+    tok = os.environ.get("GITHUB_TOKEN") or subprocess.run(["gh", "auth", "token"], capture_output=True,
+                                                           text=True).stdout.strip()
+    req = urllib.request.Request("https://api.github.com/graphql", data=json.dumps({"query": Q}).encode(),
+                                 headers={"Authorization": f"bearer {tok}", "User-Agent": "ilia-ae-profile-bot/1.0"})
+    u = json.load(urllib.request.urlopen(req, timeout=30))["data"]["user"]
+    c, r = u["contributionsCollection"], u["repositories"]
+    weeks = [sum(d["contributionCount"] for d in w["contributionDays"]) for w in c["contributionCalendar"]["weeks"]]
+    return dict(c=c["contributionCalendar"]["totalContributions"], m=c["totalCommitContributions"],
+                p=c["totalPullRequestContributions"], i=c["totalIssueContributions"],
+                r=r["totalCount"], s=sum(n["stargazerCount"] for n in r["nodes"]), weeks=weeks)
+
+
+def _fmt(n, lang):
+    return f"{n:,}".replace(",", " " if lang == "ru" else ",")
+
+
+def svg(d, lang):
+    t = TXT[lang]; W, H = 900, 214
+    acc, sub = "#4D82E8", "#9aa0a6"
+    keys = ["c", "m", "p", "i", "r", "s"]
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
+           f'font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">',
+           f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="14" fill="#888888" fill-opacity="0.04" '
+           f'stroke="#88888850"/>']
+    cw = W / len(keys)
+    for k, key in enumerate(keys):
+        cx = cw * (k + 0.5)
+        if k:
+            out.append(f'<line x1="{cw*k:.1f}" y1="22" x2="{cw*k:.1f}" y2="72" stroke="#888888" stroke-opacity="0.18"/>')
+        out.append(f'<text x="{cx:.1f}" y="52" font-size="26" font-weight="800" fill="{acc}" '
+                   f'text-anchor="middle">{_fmt(d[key], lang)}</text>')
+        out.append(f'<text x="{cx:.1f}" y="72" font-size="12" fill="{sub}" text-anchor="middle">{t[key]}</text>')
+    weeks = d["weeks"][-52:]
+    top = max(weeks) or 1
+    x0, x1, base, hmax = 24, W - 24, 182, 76
+    step = (x1 - x0) / len(weeks); bw = step * 0.72
+    out.append(f'<line x1="{x0}" y1="{base+0.5}" x2="{x1}" y2="{base+0.5}" stroke="#888888" stroke-opacity="0.25"/>')
+    for j, v in enumerate(weeks):
+        h = max(2, hmax * v / top) if v else 2
+        op = 0.25 if not v else 0.45 + 0.55 * v / top
+        out.append(f'<rect x="{x0 + j*step + (step-bw)/2:.1f}" y="{base-h:.1f}" width="{bw:.1f}" height="{h:.1f}" '
+                   f'rx="2" fill="{acc}" fill-opacity="{op:.2f}"/>')
+    out.append(f'<text x="{x0}" y="{H-12}" font-size="11.5" fill="{sub}">{t["year"]}</text>')
+    out.append("</svg>")
+    return "\n".join(out)
+
+
+def write():
+    d = fetch()
+    changed = False
+    for lang in TXT:
+        fn = os.path.join(HERE, "assets", f"stats.{lang}.svg")
+        new = svg(d, lang)
+        if not os.path.exists(fn) or open(fn, encoding="utf-8").read() != new:
+            open(fn, "w", encoding="utf-8").write(new); changed = True
+    return d, changed
+
+
+if __name__ == "__main__":
+    d, ch = write()
+    print({k: v for k, v in d.items() if k != "weeks"}, "updated" if ch else "unchanged")

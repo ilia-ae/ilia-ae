@@ -371,3 +371,7 @@
 </p>
 
 <sub><a href="https://ilia.ae/en/cases/">All projects on the site →</a></sub>
+
+### GitHub stats
+
+<p align="center"><a href="https://github.com/ilia-ae"><img src="assets/stats.en.svg" alt="GitHub activity over the last 12 months" width="100%"/></a></p>

@@ -371,3 +371,7 @@
 </p>
 
 <sub><a href="https://ilia.ae/cases/">Все проекты на сайте →</a></sub>
+
+### Статистика GitHub
+
+<p align="center"><a href="https://github.com/ilia-ae"><img src="assets/stats.ru.svg" alt="Активность на GitHub за 12 месяцев" width="100%"/></a></p>
