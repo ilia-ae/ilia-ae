@@ -130,7 +130,7 @@
 <a href="https://www.torproject.org/"><img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/></a>
 </p>
 
-**🛡️ Безопасность и секреты**
+**🛡️ Информационная безопасность**
 
 <p>
 <a href="https://ilia.ae/articles/security/openbao-hranilishche-sekretov/"><img src="https://img.shields.io/badge/OpenBao-2F2F2F?style=for-the-badge" alt="OpenBao"/></a>
