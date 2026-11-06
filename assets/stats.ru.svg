@@ -3,7 +3,7 @@
 <text x="75.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">6 412</text>
 <text x="75.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">вклад за год</text>
 <line x1="150.0" y1="22" x2="150.0" y2="72" stroke="#888888" stroke-opacity="0.18"/>
-<text x="225.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">263</text>
+<text x="225.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">262</text>
 <text x="225.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">активных дней</text>
 <line x1="300.0" y1="22" x2="300.0" y2="72" stroke="#888888" stroke-opacity="0.18"/>
 <text x="375.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">27</text>
@@ -37,8 +37,8 @@
 <rect x="288.4" y="179.6" width="11.8" height="2.4" rx="2" fill="#4D82E8" fill-opacity="0.47"/>
 <rect x="304.8" y="180.0" width="11.8" height="2.0" rx="2" fill="#4D82E8" fill-opacity="0.45"/>
 <rect x="321.2" y="164.0" width="11.8" height="18.0" rx="2" fill="#4D82E8" fill-opacity="0.58"/>
-<rect x="337.6" y="158.2" width="11.8" height="23.8" rx="2" fill="#4D82E8" fill-opacity="0.62"/>
-<rect x="354.0" y="144.8" width="11.8" height="37.2" rx="2" fill="#4D82E8" fill-opacity="0.72"/>
+<rect x="337.6" y="158.0" width="11.8" height="24.0" rx="2" fill="#4D82E8" fill-opacity="0.62"/>
+<rect x="354.0" y="145.0" width="11.8" height="37.0" rx="2" fill="#4D82E8" fill-opacity="0.72"/>
 <rect x="370.4" y="155.6" width="11.8" height="26.4" rx="2" fill="#4D82E8" fill-opacity="0.64"/>
 <rect x="386.8" y="156.0" width="11.8" height="26.0" rx="2" fill="#4D82E8" fill-opacity="0.64"/>
 <rect x="403.1" y="154.7" width="11.8" height="27.3" rx="2" fill="#4D82E8" fill-opacity="0.65"/>
