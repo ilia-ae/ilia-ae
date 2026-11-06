@@ -15,7 +15,7 @@ from email.utils import parsedate_to_datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "assets", "posts")
-N = 4
+N = 6
 UA = {"User-Agent": "ilia-ae-profile-bot/1.0"}
 FEEDS = {"en": ("https://ilia.ae/en/feed/", "README.md"), "ru": ("https://ilia.ae/feed/", "README.ru.md")}
 MONTHS = {"en": "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split(),

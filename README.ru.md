@@ -347,6 +347,10 @@
 <a href="https://ilia.ae/articles/security/regulirovanie-v-stranah-zaliva-dlya-it/"><img src="assets/posts/ru-c6925bffe8.svg" alt="Регулирование в странах Залива для ИТ-компании: Саудовская Аравия, Катар, Бахрейн, Оман, Кувейт и Египет" width="49%"/></a>
 <a href="https://ilia.ae/articles/it/zavisimost-ot-postavshchika/"><img src="assets/posts/ru-7660484755.svg" alt="Зависимость от поставщика: что проверять в техническом аудите кроме кода" width="49%"/></a>
 </p>
+<p align="center">
+<a href="https://ilia.ae/articles/security/regulirovanie-v-oae-dlya-it-kompanii/"><img src="assets/posts/ru-1f03b02d4c.svg" alt="Регулирование в ОАЭ для ИТ-компании: данные, кибербезопасность, счета и подпись" width="49%"/></a>
+<a href="https://ilia.ae/articles/it/ii-agent-granica-v-kode/"><img src="assets/posts/ru-35bac89e35.svg" alt="ИИ-агент с доступом к рабочим системам: граница в коде, а не в промпте" width="49%"/></a>
+</p>
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://ilia.ae/articles/">Все статьи →</a> · обновляется каждый день из RSS сайта</sub>

@@ -347,6 +347,10 @@
 <a href="https://ilia.ae/en/blog/infosec/gulf-regulations-for-tech-companies/"><img src="assets/posts/en-f5e74008df.svg" alt="Gulf regulations for tech companies: Saudi Arabia, Qatar, Bahrain, Oman, Kuwait and Egypt" width="49%"/></a>
 <a href="https://ilia.ae/en/blog/digital/vendor-lock-in-audit/"><img src="assets/posts/en-84d6866381.svg" alt="Vendor lock-in: what a technical audit should check besides the code" width="49%"/></a>
 </p>
+<p align="center">
+<a href="https://ilia.ae/en/blog/infosec/uae-regulations-for-tech-companies/"><img src="assets/posts/en-c2a1738582.svg" alt="UAE regulations for tech companies: data, cybersecurity, e-invoicing and e-signatures" width="49%"/></a>
+<a href="https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/"><img src="assets/posts/en-7986a189da.svg" alt="An AI agent with access to production: the boundary lives in code, not in the prompt" width="49%"/></a>
+</p>
 <!-- BLOG-POST-LIST:END -->
 
 <sub><a href="https://ilia.ae/blog/">All articles →</a> · updated daily from the site RSS</sub>
