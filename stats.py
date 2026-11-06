@@ -13,12 +13,14 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 LOGIN = "ilia-ae"
 Q = """{user(login:"%s"){
   repositories(ownerAffiliations:OWNER,privacy:PUBLIC,isFork:false,first:100){totalCount nodes{stargazerCount}}
-  contributionsCollection{totalCommitContributions totalPullRequestContributions totalIssueContributions
-    contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}""" % LOGIN
-TXT = {"en": dict(c="contributions", m="commits", p="pull requests", i="issues", r="public repos", s="stars",
-                  year="activity over the last 12 months, by week"),
-       "ru": dict(c="вклад за год", m="коммитов", p="pull request'ов", i="задач", r="открытых репозиториев", s="звёзд",
-                  year="активность за последние 12 месяцев, по неделям")}
+  contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}""" % LOGIN
+# Only numbers derived from the contribution calendar plus public repos: the workflow token
+# sees private work in the calendar total but splits commits/PRs/issues for public repos
+# only, so those would drop from thousands to hundreds on every daily run.
+TXT = {"en": dict(c="contributions in a year", a="active days", k="longest streak, days", w="best week",
+                  r="public repos", s="stars", year="activity over the last 12 months, by week"),
+       "ru": dict(c="вклад за год", a="активных дней", k="серия подряд, дней", w="лучшая неделя",
+                  r="открытых репозиториев", s="звёзд", year="активность за последние 12 месяцев, по неделям")}
 
 
 def fetch():
@@ -28,10 +30,14 @@ def fetch():
                                  headers={"Authorization": f"bearer {tok}", "User-Agent": "ilia-ae-profile-bot/1.0"})
     u = json.load(urllib.request.urlopen(req, timeout=30))["data"]["user"]
     c, r = u["contributionsCollection"], u["repositories"]
-    weeks = [sum(d["contributionCount"] for d in w["contributionDays"]) for w in c["contributionCalendar"]["weeks"]]
-    return dict(c=c["contributionCalendar"]["totalContributions"], m=c["totalCommitContributions"],
-                p=c["totalPullRequestContributions"], i=c["totalIssueContributions"],
-                r=r["totalCount"], s=sum(n["stargazerCount"] for n in r["nodes"]), weeks=weeks)
+    cal = c["contributionCalendar"]["weeks"]
+    weeks = [sum(d["contributionCount"] for d in w["contributionDays"]) for w in cal]
+    days = [d["contributionCount"] for w in cal for d in w["contributionDays"]]
+    run = best = 0
+    for v in days:
+        run = run + 1 if v else 0; best = max(best, run)
+    return dict(c=c["contributionCalendar"]["totalContributions"], a=sum(1 for v in days if v), k=best,
+                w=max(weeks), r=r["totalCount"], s=sum(n["stargazerCount"] for n in r["nodes"]), weeks=weeks)
 
 
 def _fmt(n, lang):
@@ -41,7 +47,7 @@ def _fmt(n, lang):
 def svg(d, lang):
     t = TXT[lang]; W, H = 900, 214
     acc, sub = "#4D82E8", "#9aa0a6"
-    keys = ["c", "m", "p", "i", "r", "s"]
+    keys = ["c", "a", "k", "w", "r", "s"]
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
            f'font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">',
            f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="14" fill="#888888" fill-opacity="0.04" '
