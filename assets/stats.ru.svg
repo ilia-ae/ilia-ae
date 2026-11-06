@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="899" height="95" rx="14" fill="#888888" fill-opacity="0.04" stroke="#88888850"/>
-<text x="75.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">6 413</text>
-<text x="75.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">вклад за год</text>
-<line x1="150.0" y1="22" x2="150.0" y2="72" stroke="#888888" stroke-opacity="0.18"/>
-<text x="225.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">263</text>
-<text x="225.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">активных дней</text>
-<line x1="300.0" y1="22" x2="300.0" y2="72" stroke="#888888" stroke-opacity="0.18"/>
-<text x="375.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">27</text>
-<text x="375.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">серия подряд, дней</text>
-<line x1="450.0" y1="22" x2="450.0" y2="72" stroke="#888888" stroke-opacity="0.18"/>
-<text x="525.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">409</text>
-<text x="525.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">лучшая неделя</text>
-<line x1="600.0" y1="22" x2="600.0" y2="72" stroke="#888888" stroke-opacity="0.18"/>
-<text x="675.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">15</text>
-<text x="675.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">открытых репозиториев</text>
-<line x1="750.0" y1="22" x2="750.0" y2="72" stroke="#888888" stroke-opacity="0.18"/>
-<text x="825.0" y="52" font-size="26" font-weight="800" fill="#4D82E8" text-anchor="middle">20</text>
-<text x="825.0" y="72" font-size="12" fill="#9aa0a6" text-anchor="middle">звёзд</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="74" viewBox="0 0 760 74" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="759" height="73" rx="14" fill="#888888" fill-opacity="0.04" stroke="#88888850"/>
+<text x="63.3" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">6 414</text>
+<text x="63.3" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">вклад за год</text>
+<line x1="126.7" y1="18" x2="126.7" y2="56" stroke="#888888" stroke-opacity="0.18"/>
+<text x="190.0" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">263</text>
+<text x="190.0" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">активных дней</text>
+<line x1="253.3" y1="18" x2="253.3" y2="56" stroke="#888888" stroke-opacity="0.18"/>
+<text x="316.7" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">27</text>
+<text x="316.7" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">серия подряд, дней</text>
+<line x1="380.0" y1="18" x2="380.0" y2="56" stroke="#888888" stroke-opacity="0.18"/>
+<text x="443.3" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">409</text>
+<text x="443.3" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">лучшая неделя</text>
+<line x1="506.7" y1="18" x2="506.7" y2="56" stroke="#888888" stroke-opacity="0.18"/>
+<text x="570.0" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">15</text>
+<text x="570.0" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">открытых репозиториев</text>
+<line x1="633.3" y1="18" x2="633.3" y2="56" stroke="#888888" stroke-opacity="0.18"/>
+<text x="696.7" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">20</text>
+<text x="696.7" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">звёзд</text>
 </svg>

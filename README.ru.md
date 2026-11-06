@@ -374,4 +374,4 @@
 
 ### Статистика GitHub
 
-<p align="center"><a href="https://github.com/ilia-ae"><img src="assets/stats.ru.svg" alt="Статистика GitHub: вклад за год, активные дни, серия, лучшая неделя, репозитории, звёзды" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/ilia-ae"><img src="assets/stats.ru.svg" alt="Статистика GitHub: вклад за год, активные дни, серия, лучшая неделя, репозитории, звёзды" width="760"/></a></p>

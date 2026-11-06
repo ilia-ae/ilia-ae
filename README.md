@@ -374,4 +374,4 @@
 
 ### GitHub stats
 
-<p align="center"><a href="https://github.com/ilia-ae"><img src="assets/stats.en.svg" alt="GitHub stats: contributions, active days, longest streak, best week, public repos, stars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/ilia-ae"><img src="assets/stats.en.svg" alt="GitHub stats: contributions, active days, longest streak, best week, public repos, stars" width="760"/></a></p>

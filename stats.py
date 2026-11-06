@@ -45,7 +45,7 @@ def _fmt(n, lang):
 
 
 def svg(d, lang):
-    t = TXT[lang]; W, H = 900, 96
+    t = TXT[lang]; W, H = 760, 74
     acc, sub = "#4D82E8", "#9aa0a6"
     keys = ["c", "a", "k", "w", "r", "s"]
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
@@ -56,10 +56,10 @@ def svg(d, lang):
     for k, key in enumerate(keys):
         cx = cw * (k + 0.5)
         if k:
-            out.append(f'<line x1="{cw*k:.1f}" y1="22" x2="{cw*k:.1f}" y2="72" stroke="#888888" stroke-opacity="0.18"/>')
-        out.append(f'<text x="{cx:.1f}" y="52" font-size="26" font-weight="800" fill="{acc}" '
+            out.append(f'<line x1="{cw*k:.1f}" y1="18" x2="{cw*k:.1f}" y2="56" stroke="#888888" stroke-opacity="0.18"/>')
+        out.append(f'<text x="{cx:.1f}" y="38" font-size="20" font-weight="800" fill="{acc}" '
                    f'text-anchor="middle">{_fmt(d[key], lang)}</text>')
-        out.append(f'<text x="{cx:.1f}" y="72" font-size="12" fill="{sub}" text-anchor="middle">{t[key]}</text>')
+        out.append(f'<text x="{cx:.1f}" y="56" font-size="10.5" fill="{sub}" text-anchor="middle">{t[key]}</text>')
     out.append("</svg>")
     return "\n".join(out)
 
