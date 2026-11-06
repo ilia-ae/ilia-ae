@@ -15,6 +15,8 @@ Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patent
 <a href="https://ilia.ae/en/feedback/"><img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
+<p align="center"><img src="assets/fleet.en.svg" alt="50+ bare-metal hosts, 300+ virtual machines, self-hosted and multi-tenant" width="620"/></p>
+
 ### What I do
 
 - **Infrastructure as code from bare metal up**: Proxmox and ESXi fleets, Ansible tested in CI (Molecule idempotence runs, strict linting, secret checks, multi-arch images, TPM 2.0 attestation), changes predicted before they run.
