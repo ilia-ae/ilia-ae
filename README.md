@@ -10,9 +10,9 @@
 Led 100+ engineers · 1000+ delivered projects (GovTech, biometrics) · 6 patents · products used in 38 countries</p>
 
 <p align="center">
-<a href="https://ilia.ae/en/home/">('ilia.ae', '<img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/>', None)</a>
-<a href="https://ilia.ae/blog/">('Blog', '<img src="https://img.shields.io/badge/Blog-2B2A28?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>', None)</a>
-<a href="https://ilia.ae/en/feedback/">('Book a call', '<img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/>', None)</a>
+<a href="https://ilia.ae/en/home/"><img src="https://img.shields.io/badge/ilia.ae-1B4DD1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilia.ae"/></a>
+<a href="https://ilia.ae/blog/"><img src="https://img.shields.io/badge/Blog-2B2A28?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/></a>
+<a href="https://ilia.ae/en/feedback/"><img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
 ### What I do
