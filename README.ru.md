@@ -339,24 +339,31 @@
 
 ### Открытый код
 
-| Проект | Что это |
-|---|---|
-| [deposit.mayday.software](https://github.com/ilia-ae/deposit.mayday.software) | Криптографическое депонирование авторства кода и меток времени (Angular, Cloudflare Worker, якорение в Bitcoin и Base) |
-| [vaultwarden](https://github.com/ilia-ae/vaultwarden) | Vault Approver: подтверждение входа в Vaultwarden с зарегистрированного телефона, подписи от начала до конца (Flutter, iOS + Android) |
-| [wg-yubikey-manager](https://github.com/ilia-ae/wg-yubikey-manager) | Приложение macOS: конфигурации WireGuard, открываемые YubiKey (Go) |
-| [fb-agent](https://github.com/ilia-ae/fb-agent) | Менеджер Fluent Bit для Linux одним бинарником, совместим с VictoriaLogs (Go) |
-| [integrity](https://github.com/ilia-ae/integrity) | Публичные манифесты целостности развёртываний моих проектов |
-| [fleetforge-workspace-releases](https://github.com/ilia-ae/fleetforge-workspace-releases) | Сборки FleetForge Workspace с подписанными метаданными обновлений |
-| [aliro-mayday](https://github.com/ilia-ae/aliro-mayday) | Экспериментальный NFC-контроллер Aliro на ESP32-S3 + PN532 с подключением через Matter (C) |
-| [zignode](https://github.com/ilia-ae/zignode) | Модульный узел Zigbee/Wi-Fi на ESP32 с OTA и откатом (C) |
-| [klipsch_flexus](https://github.com/ilia-ae/klipsch_flexus) | Интеграция Home Assistant для саундбара Klipsch Flexus CORE 300 (Python) |
-| [m5paper_esphome](https://github.com/ilia-ae/m5paper_esphome) | Дашборд ESPHome для e-ink экрана M5Paper |
-| [rpm-fun_esphome](https://github.com/ilia-ae/rpm-fun_esphome) | Контроллер вентиляторов на ESPHome для ESP32-S3: 4 ШИМ-канала и 6 входов оборотов |
-| [caas](https://github.com/ilia-ae/caas) | Инстанс XMPP Compliance Tester (форк iNPUTmice/caas) |
-| [1C_HMAC](https://github.com/ilia-ae/1C_HMAC) | Веб-файлсервер для 1С: обработчик ASP.NET со ссылками, подписанными HMAC, и проверкой IP/домена |
-| [JugglucoNG](https://github.com/ilia-ae/JugglucoNG) | Форк Juggluco (приложение для CGM) с интерфейсом Material 3 Expressive на Compose (Kotlin) |
-| [HomeKey-ESP32](https://github.com/ilia-ae/HomeKey-ESP32) | Форк: замок HomeKit на ESP32 с поддержкой Apple Home Key |
-| [agency-agents](https://github.com/ilia-ae/agency-agents) | Форк: 40 специализированных ИИ-агентов, отобранных под работу fractional CTO |
+<table><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.ru.svg" alt="deposit.mayday.software" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.ru.svg" alt="vaultwarden" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.ru.svg" alt="wg-yubikey-manager" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.ru.svg" alt="fb-agent" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/integrity"><img src="assets/cards/integrity.ru.svg" alt="integrity" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/fleetforge-workspace-releases"><img src="assets/cards/fleetforge-workspace-releases.ru.svg" alt="fleetforge-workspace-releases" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.ru.svg" alt="aliro-mayday" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/zignode"><img src="assets/cards/zignode.ru.svg" alt="zignode" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.ru.svg" alt="klipsch_flexus" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/m5paper_esphome"><img src="assets/cards/m5paper_esphome.ru.svg" alt="m5paper_esphome" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/rpm-fun_esphome"><img src="assets/cards/rpm-fun_esphome.ru.svg" alt="rpm-fun_esphome" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/caas"><img src="assets/cards/caas.ru.svg" alt="caas" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/1C_HMAC"><img src="assets/cards/1C_HMAC.ru.svg" alt="1C_HMAC" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/JugglucoNG"><img src="assets/cards/JugglucoNG.ru.svg" alt="JugglucoNG" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/HomeKey-ESP32"><img src="assets/cards/HomeKey-ESP32.ru.svg" alt="HomeKey-ESP32" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/agency-agents"><img src="assets/cards/agency-agents.ru.svg" alt="agency-agents" width="100%"/></a></td>
+</tr></table>
 
 ### Свежие статьи
 

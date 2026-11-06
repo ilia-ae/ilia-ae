@@ -339,24 +339,31 @@ Self-hosted agents that run my infrastructure and inbox with hard limits in code
 
 ### Open source
 
-| Project | What it is |
-|---|---|
-| [deposit.mayday.software](https://github.com/ilia-ae/deposit.mayday.software) | Cryptographic deposit for source-code authorship and timestamp evidence (Angular, Cloudflare Worker, Bitcoin and Base anchoring) |
-| [vaultwarden](https://github.com/ilia-ae/vaultwarden) | Vault Approver: approve Vaultwarden logins from a registered phone, end-to-end signed (Flutter, iOS + Android) |
-| [wg-yubikey-manager](https://github.com/ilia-ae/wg-yubikey-manager) | macOS app for WireGuard configs unlocked with a YubiKey (Go) |
-| [fb-agent](https://github.com/ilia-ae/fb-agent) | Single-binary Fluent Bit manager for Linux, VictoriaLogs-compatible (Go) |
-| [integrity](https://github.com/ilia-ae/integrity) | Public deployment integrity manifests for my projects |
-| [fleetforge-workspace-releases](https://github.com/ilia-ae/fleetforge-workspace-releases) | FleetForge Workspace desktop builds with signed update metadata |
-| [aliro-mayday](https://github.com/ilia-ae/aliro-mayday) | Experimental Aliro NFC controller for ESP32-S3 + PN532 with Matter provisioning (C) |
-| [zignode](https://github.com/ilia-ae/zignode) | Modular ESP32 Zigbee/Wi-Fi node with OTA and rollback (C) |
-| [klipsch_flexus](https://github.com/ilia-ae/klipsch_flexus) | Home Assistant integration for the Klipsch Flexus CORE 300 soundbar (Python) |
-| [m5paper_esphome](https://github.com/ilia-ae/m5paper_esphome) | ESPHome dashboard for the M5Paper e-ink display |
-| [rpm-fun_esphome](https://github.com/ilia-ae/rpm-fun_esphome) | ESPHome fan controller for ESP32-S3: 4 PWM channels + 6 RPM inputs |
-| [caas](https://github.com/ilia-ae/caas) | XMPP Compliance Tester instance (fork of iNPUTmice/caas) |
-| [1C_HMAC](https://github.com/ilia-ae/1C_HMAC) | 1C web file server: ASP.NET handler with HMAC-signed links and IP/domain checks |
-| [JugglucoNG](https://github.com/ilia-ae/JugglucoNG) | Fork of Juggluco (CGM app) with a Material 3 Expressive Compose UI (Kotlin) |
-| [HomeKey-ESP32](https://github.com/ilia-ae/HomeKey-ESP32) | Fork: ESP32 HomeKit lock with Apple Home Key support |
-| [agency-agents](https://github.com/ilia-ae/agency-agents) | Fork: 40 specialised AI agents curated for a fractional CTO |
+<table><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.en.svg" alt="deposit.mayday.software" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.en.svg" alt="vaultwarden" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.en.svg" alt="wg-yubikey-manager" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.en.svg" alt="fb-agent" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/integrity"><img src="assets/cards/integrity.en.svg" alt="integrity" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/fleetforge-workspace-releases"><img src="assets/cards/fleetforge-workspace-releases.en.svg" alt="fleetforge-workspace-releases" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.en.svg" alt="aliro-mayday" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/zignode"><img src="assets/cards/zignode.en.svg" alt="zignode" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.en.svg" alt="klipsch_flexus" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/m5paper_esphome"><img src="assets/cards/m5paper_esphome.en.svg" alt="m5paper_esphome" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/rpm-fun_esphome"><img src="assets/cards/rpm-fun_esphome.en.svg" alt="rpm-fun_esphome" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/caas"><img src="assets/cards/caas.en.svg" alt="caas" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/1C_HMAC"><img src="assets/cards/1C_HMAC.en.svg" alt="1C_HMAC" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/JugglucoNG"><img src="assets/cards/JugglucoNG.en.svg" alt="JugglucoNG" width="100%"/></a></td>
+</tr><tr>
+<td width="50%"><a href="https://github.com/ilia-ae/HomeKey-ESP32"><img src="assets/cards/HomeKey-ESP32.en.svg" alt="HomeKey-ESP32" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/ilia-ae/agency-agents"><img src="assets/cards/agency-agents.en.svg" alt="agency-agents" width="100%"/></a></td>
+</tr></table>
 
 ### Recent writing
 
