@@ -160,8 +160,6 @@
 <a href="https://github.com/log2timeline/plaso"><img src="https://img.shields.io/badge/Plaso%20%C2%B7%20log2timeline-555555?style=for-the-badge" alt="Plaso · log2timeline"/></a>
 </p>
 
-<a href="https://ilia.ae/services-ru/informacionnaya-bezopasnost/"><img src="assets/dfir.ru.svg" alt="Артефакты Windows, с которыми работаю: Amcache, AppCompatCache (ShimCache), Prefetch, BAM/DAM, UserAssist, ShellBags, Jump Lists, LNK, Корзина, $MFT и $UsnJrnl, листинги файловой системы, SRUM, User Access Logging (SUM) и filescan по дампу памяти." width="100%"/></a>
-
 **🔑 Аппаратные ключи и смарт-карты** <img src="assets/n/17.svg" height="30" align="middle" alt="17"/>
 
 <p>
@@ -341,26 +339,31 @@
 ### Свежие статьи
 
 <!-- BLOG-POST-LIST:START -->
-- [ИИ-агент с доступом к рабочим системам: граница в коде, а не в промпте](https://ilia.ae/articles/it/ii-agent-granica-v-kode/)
-- [Кластер Kubernetes на своих серверах: сборка и защита](https://ilia.ae/articles/it/kubernetes-klaster-na-svoyom-zheleze/)
-- [OpenBao и доли Шамира: как устроено хранилище секретов](https://ilia.ae/articles/security/openbao-hranilishche-sekretov/)
-- [Мой крипто-стек: 11 устройств, нулевое доверие](https://ilia.ae/articles/security/crypto-apparatnye-koshelki-bezopasnost/)
-- [Продакшн-кластер Proxmox как код](https://ilia.ae/articles/it/proxmox-klaster-kak-kod/)
+<p align="center">
+<a href="https://ilia.ae/articles/security/regulirovanie-v-rossii-dlya-it/"><img src="assets/posts/ru-c729a0d324.svg" alt="Регулирование в России для ИТ-компании: 152-ФЗ, КИИ, ЭДО, подпись и Банк России" width="49%"/></a>
+<a href="https://ilia.ae/articles/security/regulirovanie-v-sng-dlya-it/"><img src="assets/posts/ru-a42bc76b70.svg" alt="Регулирование в СНГ для ИТ-компании: Казахстан, Узбекистан, Кыргызстан, Беларусь, Армения и Азербайджан" width="49%"/></a>
+</p>
+<p align="center">
+<a href="https://ilia.ae/articles/security/regulirovanie-v-stranah-zaliva-dlya-it/"><img src="assets/posts/ru-c6925bffe8.svg" alt="Регулирование в странах Залива для ИТ-компании: Саудовская Аравия, Катар, Бахрейн, Оман, Кувейт и Египет" width="49%"/></a>
+<a href="https://ilia.ae/articles/it/zavisimost-ot-postavshchika/"><img src="assets/posts/ru-7660484755.svg" alt="Зависимость от поставщика: что проверять в техническом аудите кроме кода" width="49%"/></a>
+</p>
 <!-- BLOG-POST-LIST:END -->
 
-<sub>обновляется автоматически из RSS сайта</sub>
+<sub><a href="https://ilia.ae/articles/">Все статьи →</a> · обновляется каждый день из RSS сайта</sub>
 
 ### Мои открытые проекты
 
-<table><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.ru.svg" alt="vaultwarden" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.ru.svg" alt="wg-yubikey-manager" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.ru.svg" alt="deposit.mayday.software" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.ru.svg" alt="fb-agent" width="100%"/></a></td>
-</tr><tr>
-<td width="50%"><a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.ru.svg" alt="aliro-mayday" width="100%"/></a></td>
-<td width="50%"><a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.ru.svg" alt="klipsch_flexus" width="100%"/></a></td>
-</tr></table>
+<p align="center">
+<a href="https://github.com/ilia-ae/vaultwarden"><img src="assets/cards/vaultwarden.ru.svg" alt="vaultwarden: Подтверждение входа в Vaultwarden с телефона, сквозная подпись. iOS и Android." width="49%"/></a>
+<a href="https://github.com/ilia-ae/wg-yubikey-manager"><img src="assets/cards/wg-yubikey-manager.ru.svg" alt="wg-yubikey-manager: macOS-приложение: конфигурации WireGuard открываются касанием YubiKey." width="49%"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/ilia-ae/deposit.mayday.software"><img src="assets/cards/deposit.mayday.software.ru.svg" alt="deposit.mayday.software: Доказательство авторства кода: криптографические метки времени с якорением в Bitcoin и Base." width="49%"/></a>
+<a href="https://github.com/ilia-ae/fb-agent"><img src="assets/cards/fb-agent.ru.svg" alt="fb-agent: Менеджер Fluent Bit одним бинарником для сбора логов на Linux, совместим с VictoriaLogs." width="49%"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/ilia-ae/aliro-mayday"><img src="assets/cards/aliro-mayday.ru.svg" alt="aliro-mayday: NFC-контроллер доступа Aliro на ESP32-S3 и PN532, настройка через Matter." width="49%"/></a>
+<a href="https://github.com/ilia-ae/klipsch_flexus"><img src="assets/cards/klipsch_flexus.ru.svg" alt="klipsch_flexus: Интеграция Home Assistant для саундбара Klipsch Flexus CORE 300." width="49%"/></a>
+</p>
 
 <sub><a href="https://github.com/ilia-ae?tab=repositories">Все репозитории →</a></sub>
