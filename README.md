@@ -355,6 +355,17 @@
 
 <sub><a href="https://ilia.ae/blog/">All articles →</a> · updated daily from the site RSS</sub>
 
+### Products
+
+<p align="center">
+<a href="https://mayday.software/"><img src="assets/products/mayday.en.svg" alt="mayday.software: AI voice assistant that walks every employee through business processes in real time" width="49%"/></a>
+<a href="https://mirador.mayday.software/"><img src="assets/products/mirador.en.svg" alt="MIRADOR: Independent weekly report on your development: does it work, is it moving, how fast" width="49%"/></a>
+</p>
+<p align="center">
+<a href="https://tg.ilia.ae/"><img src="assets/products/netcheck.en.svg" alt="Netcheck: Connection audit: IP, DNS, censorship, WebRTC and DNS leaks, fingerprint, all in the browser" width="49%"/></a>
+<a href="https://monolith.plus/"><img src="assets/products/monolith.en.svg" alt="Monolith Plus: Private secure cloud: isolated perimeter, virtual desktops, protected comms, panic button" width="49%"/></a>
+</p>
+
 ### My open source
 
 <p align="center">

@@ -355,6 +355,17 @@
 
 <sub><a href="https://ilia.ae/articles/">Все статьи →</a> · обновляется каждый день из RSS сайта</sub>
 
+### Продукты
+
+<p align="center">
+<a href="https://mayday.software/"><img src="assets/products/mayday.ru.svg" alt="mayday.software: ИИ-ассистент, который голосом ведёт сотрудника по бизнес-процессам в реальном времени" width="49%"/></a>
+<a href="https://mirador.mayday.software/"><img src="assets/products/mirador.ru.svg" alt="MIRADOR: Независимый еженедельный отчёт о разработке: работает ли, движется ли, как быстро" width="49%"/></a>
+</p>
+<p align="center">
+<a href="https://tg.ilia.ae/"><img src="assets/products/netcheck.ru.svg" alt="Netcheck: Аудит подключения: IP, DNS, блокировки, утечки WebRTC и DNS, отпечаток, всё в браузере" width="49%"/></a>
+<a href="https://monolith.plus/"><img src="assets/products/monolith.ru.svg" alt="Monolith Plus: Частное защищённое облако: изолированный периметр, виртуальные столы, защищённая связь" width="49%"/></a>
+</p>
+
 ### Мои открытые проекты
 
 <p align="center">
