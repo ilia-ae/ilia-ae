@@ -33,7 +33,7 @@
 <a name="stack"></a>
 
 <details>
-<summary><h3>Tech stack · 224</h3></summary>
+<summary><h3>Tech stack · 224</h3> <sub>click to expand</sub></summary>
 
 **💻 Languages** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
