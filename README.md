@@ -396,8 +396,6 @@
 <a href="https://ilia.ae/en/blog/digital/klipsch-flexus-home-assistant-integration/"><img src="assets/cards/klipsch_flexus.en.svg" alt="klipsch_flexus: A Home Assistant integration for the Klipsch Flexus CORE 300 soundbar." width="49%"/></a>
 </p>
 
-<sub><a href="https://ilia.ae/en/cases/">All projects on the site →</a></sub>
-
 <a name="stats"></a>
 
 ### GitHub stats
