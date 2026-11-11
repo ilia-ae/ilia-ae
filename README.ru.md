@@ -14,7 +14,11 @@
 <a href="https://ilia.ae/contacts/"><img src="https://img.shields.io/badge/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%D1%81%D1%8F%20%D0%BD%D0%B0%20%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Записаться на звонок"/></a>
 </p>
 
+<p align="center"><a href="#what">Чем занимаюсь</a> · <a href="#stack">Стек</a> · <a href="#writing">Статьи</a> · <a href="#products">Продукты</a> · <a href="#open-source">Открытые проекты</a> · <a href="#stats">Статистика</a></p>
+
 <p align="center"><a href="https://ilia.ae/"><img src="assets/fleet.ru.svg" alt="Сделано: 1000+ проектов, 50k+ пользователей, 38 стран. Свой парк: 50+ физических серверов, 300+ виртуальных машин." width="100%"/></a></p>
+
+<a name="what"></a>
 
 ### Чем занимаюсь
 
@@ -26,7 +30,12 @@
 - **Форензика**: DFIR-разбор Windows-хостов по артефактам реестра, NTFS и памяти.
 - **Железо и радио**: прошивки ESP32, узлы Zigbee и LoRa, брокер EMQX, NFC и Apple Home Key, SDR и DMR.
 
+<a name="stack"></a>
+
 ### Стек <img src="assets/n/t224.svg" height="38" align="middle" alt="224"/>
+
+<details>
+<summary><b>Показать весь стек</b>: 224 технологии в 16 разделах</summary>
 
 **💻 Программирование** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
@@ -336,6 +345,10 @@
 
 <sub>Бейдж ведёт на мою статью по теме, если она есть, иначе на страницу проекта.</sub>
 
+</details>
+
+<a name="writing"></a>
+
 ### Свежие статьи
 
 <!-- BLOG-POST-LIST:START -->
@@ -355,6 +368,8 @@
 
 <sub><a href="https://ilia.ae/articles/">Все статьи →</a> · обновляется каждый день из RSS сайта</sub>
 
+<a name="products"></a>
+
 ### Продукты
 
 <p align="center">
@@ -365,6 +380,8 @@
 <a href="https://tg.ilia.ae/"><img src="assets/products/netcheck.ru.svg" alt="Netcheck: Аудит подключения: IP, DNS, блокировки, утечки WebRTC и DNS, отпечаток, всё в браузере" width="49%"/></a>
 <a href="https://monolith.plus/"><img src="assets/products/monolith.ru.svg" alt="Monolith Plus: Частное защищённое облако: изолированный периметр, виртуальные столы, защищённая связь" width="49%"/></a>
 </p>
+
+<a name="open-source"></a>
 
 ### Мои открытые проекты
 
@@ -382,6 +399,8 @@
 </p>
 
 <sub><a href="https://ilia.ae/cases/">Все проекты на сайте →</a></sub>
+
+<a name="stats"></a>
 
 ### Статистика GitHub
 

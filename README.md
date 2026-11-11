@@ -14,7 +14,11 @@
 <a href="https://ilia.ae/en/feedback/"><img src="https://img.shields.io/badge/Book%20a%20call-0F9D58?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
 </p>
 
+<p align="center"><a href="#what">What I do</a> · <a href="#stack">Tech stack</a> · <a href="#writing">Writing</a> · <a href="#products">Products</a> · <a href="#open-source">Open source</a> · <a href="#stats">Stats</a></p>
+
 <p align="center"><a href="https://ilia.ae/en/home/"><img src="assets/fleet.en.svg" alt="Delivered: 1000+ projects, 50k+ users, 38 countries. Self-hosted fleet: 50+ bare-metal hosts, 300+ virtual machines." width="100%"/></a></p>
+
+<a name="what"></a>
 
 ### What I do
 
@@ -26,7 +30,12 @@
 - **Forensics**: DFIR triage of Windows hosts from registry, NTFS and memory artifacts.
 - **Hardware and radio**: ESP32 firmware, Zigbee and LoRa nodes, an EMQX broker, NFC and Apple Home Key, SDR and DMR.
 
+<a name="stack"></a>
+
 ### Tech stack <img src="assets/n/t224.svg" height="38" align="middle" alt="224"/>
+
+<details>
+<summary><b>Show the whole stack</b>: 224 technologies in 16 sections</summary>
 
 **💻 Languages** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
@@ -336,6 +345,10 @@
 
 <sub>Badges link to my article on the topic when I have one, otherwise the project page.</sub>
 
+</details>
+
+<a name="writing"></a>
+
 ### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
@@ -355,6 +368,8 @@
 
 <sub><a href="https://ilia.ae/blog/">All articles →</a> · updated daily from the site RSS</sub>
 
+<a name="products"></a>
+
 ### Products
 
 <p align="center">
@@ -365,6 +380,8 @@
 <a href="https://tg.ilia.ae/"><img src="assets/products/netcheck.en.svg" alt="Netcheck: Connection audit: IP, DNS, censorship, WebRTC and DNS leaks, fingerprint, all in the browser" width="49%"/></a>
 <a href="https://monolith.plus/"><img src="assets/products/monolith.en.svg" alt="Monolith Plus: Private secure cloud: isolated perimeter, virtual desktops, protected comms, panic button" width="49%"/></a>
 </p>
+
+<a name="open-source"></a>
 
 ### My open source
 
@@ -382,6 +399,8 @@
 </p>
 
 <sub><a href="https://ilia.ae/en/cases/">All projects on the site →</a></sub>
+
+<a name="stats"></a>
 
 ### GitHub stats
 
