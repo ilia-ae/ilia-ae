@@ -32,10 +32,8 @@
 
 <a name="stack"></a>
 
-### Стек <img src="assets/n/t224.svg" height="38" align="middle" alt="224"/>
-
 <details>
-<summary><b>Показать весь стек</b>: 224 технологии в 16 разделах</summary>
+<summary><img src="assets/stack-btn.ru.svg" height="44" align="middle" alt="Стек 224: 224 технологии · 16 разделов"/></summary>
 
 **💻 Программирование** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
