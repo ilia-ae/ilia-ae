@@ -33,7 +33,7 @@
 <a name="stack"></a>
 
 <details>
-<summary><h3>Стек · 224</h3> <sub>нажмите, чтобы раскрыть</sub></summary>
+<summary><h3>Стек · 224</h3> &nbsp;<kbd>показать все ▾</kbd></summary>
 
 **💻 Программирование** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
