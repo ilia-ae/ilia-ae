@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="323" height="44" viewBox="0 0 323 44" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="317" height="44" viewBox="0 0 317 44" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <text x="4" y="29.5" font-size="21" font-weight="700" fill="#4D82E8">Стек</text>
 <circle cx="80" cy="22" r="17" fill="#6e7681"/>
 <text x="80" y="27" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">224</text>
-<rect x="110" y="7" width="211" height="30" rx="15" fill="#1B4DD1"/>
-<path d="M125 16 L133 22 L125 28 Z" fill="#ffffff"/>
-<text x="141" y="26.5" font-size="13" font-weight="600" fill="#ffffff">показать · 16 разделов</text>
+<rect x="110.5" y="8.5" width="205" height="27" rx="13.5" fill="#888888" fill-opacity="0.06" stroke="#88888860"/>
+<text x="124" y="26.5" font-size="12.5" fill="#9aa0a6">16 разделов, развернуть</text>
+<path d="M291 19.5 L296 24.5 L301 19.5" fill="none" stroke="#9aa0a6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

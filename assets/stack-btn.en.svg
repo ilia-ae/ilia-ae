@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="381" height="44" viewBox="0 0 381 44" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="347" height="44" viewBox="0 0 347 44" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <text x="4" y="29.5" font-size="21" font-weight="700" fill="#4D82E8">Tech stack</text>
 <circle cx="138" cy="22" r="17" fill="#6e7681"/>
 <text x="138" y="27" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">224</text>
-<rect x="168" y="7" width="211" height="30" rx="15" fill="#1B4DD1"/>
-<path d="M183 16 L191 22 L183 28 Z" fill="#ffffff"/>
-<text x="199" y="26.5" font-size="13" font-weight="600" fill="#ffffff">show all · 16 sections</text>
+<rect x="168.5" y="8.5" width="177" height="27" rx="13.5" fill="#888888" fill-opacity="0.06" stroke="#88888860"/>
+<text x="182" y="26.5" font-size="12.5" fill="#9aa0a6">16 sections, expand</text>
+<path d="M321 19.5 L326 24.5 L331 19.5" fill="none" stroke="#9aa0a6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
