@@ -33,7 +33,7 @@
 <a name="stack"></a>
 
 <details>
-<summary><img src="assets/stack-btn.ru.svg" height="40" align="middle" alt="Стек 224: 224 технологии · 16 разделов"/></summary>
+<summary><h3>Стек · 224</h3></summary>
 
 **💻 Программирование** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
