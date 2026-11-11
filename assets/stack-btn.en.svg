@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="347" height="44" viewBox="0 0 347 44" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
-<text x="4" y="29.5" font-size="21" font-weight="700" fill="#4D82E8">Tech stack</text>
-<circle cx="138" cy="22" r="17" fill="#6e7681"/>
-<text x="138" y="27" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">224</text>
-<rect x="168.5" y="8.5" width="177" height="27" rx="13.5" fill="#888888" fill-opacity="0.06" stroke="#88888860"/>
-<text x="182" y="26.5" font-size="12.5" fill="#9aa0a6">16 sections, expand</text>
-<path d="M321 19.5 L326 24.5 L331 19.5" fill="none" stroke="#9aa0a6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="40" viewBox="0 0 149 40" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<style>.t{fill:#1f2328}@media (prefers-color-scheme:dark){.t{fill:#f0f6fc}}</style>
+<text class="t" x="2" y="27" font-size="20" font-weight="600">Tech stack</text>
+<circle cx="130" cy="20" r="17" fill="#6e7681"/>
+<text x="130" y="25" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">224</text>
 </svg>

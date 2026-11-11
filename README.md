@@ -33,7 +33,7 @@
 <a name="stack"></a>
 
 <details>
-<summary><img src="assets/stack-btn.en.svg" height="44" align="middle" alt="Tech stack 224: 224 technologies · 16 sections"/></summary>
+<summary><img src="assets/stack-btn.en.svg" height="40" align="middle" alt="Tech stack 224: 224 technologies · 16 sections"/></summary>
 
 **💻 Languages** <img src="assets/n/19.svg" height="30" align="middle" alt="19"/>
 
