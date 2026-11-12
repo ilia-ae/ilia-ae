@@ -351,16 +351,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 <p align="center">
+<a href="https://ilia.ae/articles/security/regulirovanie-v-latinskoj-amerike-dlya-it/"><img src="assets/posts/ru-776c568922.svg" alt="Регулирование в Латинской Америке для ИТ-компании: Бразилия, Мексика, Колумбия, Чили, Аргентина и Перу" width="49%"/></a>
 <a href="https://ilia.ae/articles/security/regulirovanie-v-rossii-dlya-it/"><img src="assets/posts/ru-c729a0d324.svg" alt="Регулирование в России для ИТ-компании: 152-ФЗ, КИИ, ЭДО, подпись и Банк России" width="49%"/></a>
+</p>
+<p align="center">
 <a href="https://ilia.ae/articles/security/regulirovanie-v-sng-dlya-it/"><img src="assets/posts/ru-a42bc76b70.svg" alt="Регулирование в СНГ для ИТ-компании: Казахстан, Узбекистан, Кыргызстан, Беларусь, Армения и Азербайджан" width="49%"/></a>
-</p>
-<p align="center">
 <a href="https://ilia.ae/articles/security/regulirovanie-v-stranah-zaliva-dlya-it/"><img src="assets/posts/ru-c6925bffe8.svg" alt="Регулирование в странах Залива для ИТ-компании: Саудовская Аравия, Катар, Бахрейн, Оман, Кувейт и Египет" width="49%"/></a>
-<a href="https://ilia.ae/articles/it/zavisimost-ot-postavshchika/"><img src="assets/posts/ru-7660484755.svg" alt="Зависимость от поставщика: что проверять в техническом аудите кроме кода" width="49%"/></a>
 </p>
 <p align="center">
+<a href="https://ilia.ae/articles/it/zavisimost-ot-postavshchika/"><img src="assets/posts/ru-7660484755.svg" alt="Зависимость от поставщика: что проверять в техническом аудите кроме кода" width="49%"/></a>
 <a href="https://ilia.ae/articles/security/regulirovanie-v-oae-dlya-it-kompanii/"><img src="assets/posts/ru-1f03b02d4c.svg" alt="Регулирование в ОАЭ для ИТ-компании: данные, кибербезопасность, счета и подпись" width="49%"/></a>
-<a href="https://ilia.ae/articles/it/ii-agent-granica-v-kode/"><img src="assets/posts/ru-35bac89e35.svg" alt="ИИ-агент с доступом к рабочим системам: граница в коде, а не в промпте" width="49%"/></a>
 </p>
 <!-- BLOG-POST-LIST:END -->
 

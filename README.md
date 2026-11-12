@@ -351,16 +351,16 @@
 
 <!-- BLOG-POST-LIST:START -->
 <p align="center">
+<a href="https://ilia.ae/en/blog/infosec/latin-america-regulations-for-tech-companies/"><img src="assets/posts/en-b3740b5557.svg" alt="Latin America regulations for tech companies: Brazil, Mexico, Colombia, Chile, Argentina and Peru" width="49%"/></a>
 <a href="https://ilia.ae/en/blog/infosec/russia-regulations-for-tech-companies/"><img src="assets/posts/en-91657425e9.svg" alt="Russia regulations for tech companies: 152-FZ, critical infrastructure, e-documents, signatures and the Bank of Russia" width="49%"/></a>
+</p>
+<p align="center">
 <a href="https://ilia.ae/en/blog/infosec/cis-regulations-for-tech-companies/"><img src="assets/posts/en-80ad22a680.svg" alt="CIS regulations for tech companies: Kazakhstan, Uzbekistan, Kyrgyzstan, Belarus, Armenia and Azerbaijan" width="49%"/></a>
-</p>
-<p align="center">
 <a href="https://ilia.ae/en/blog/infosec/gulf-regulations-for-tech-companies/"><img src="assets/posts/en-f5e74008df.svg" alt="Gulf regulations for tech companies: Saudi Arabia, Qatar, Bahrain, Oman, Kuwait and Egypt" width="49%"/></a>
-<a href="https://ilia.ae/en/blog/digital/vendor-lock-in-audit/"><img src="assets/posts/en-84d6866381.svg" alt="Vendor lock-in: what a technical audit should check besides the code" width="49%"/></a>
 </p>
 <p align="center">
+<a href="https://ilia.ae/en/blog/digital/vendor-lock-in-audit/"><img src="assets/posts/en-84d6866381.svg" alt="Vendor lock-in: what a technical audit should check besides the code" width="49%"/></a>
 <a href="https://ilia.ae/en/blog/infosec/uae-regulations-for-tech-companies/"><img src="assets/posts/en-c2a1738582.svg" alt="UAE regulations for tech companies: data, cybersecurity, e-invoicing and e-signatures" width="49%"/></a>
-<a href="https://ilia.ae/en/blog/digital/ai-agent-boundary-in-code/"><img src="assets/posts/en-7986a189da.svg" alt="An AI agent with access to production: the boundary lives in code, not in the prompt" width="49%"/></a>
 </p>
 <!-- BLOG-POST-LIST:END -->
 

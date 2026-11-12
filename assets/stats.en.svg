@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="74" viewBox="0 0 760 74" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="759" height="73" rx="14" fill="#888888" fill-opacity="0.04" stroke="#88888850"/>
-<text x="63.3" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">6,466</text>
+<text x="63.3" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">6,655</text>
 <text x="63.3" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">contributions in a year</text>
 <line x1="126.7" y1="18" x2="126.7" y2="56" stroke="#888888" stroke-opacity="0.18"/>
-<text x="190.0" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">263</text>
+<text x="190.0" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">264</text>
 <text x="190.0" y="56" font-size="10.5" fill="#9aa0a6" text-anchor="middle">active days</text>
 <line x1="253.3" y1="18" x2="253.3" y2="56" stroke="#888888" stroke-opacity="0.18"/>
 <text x="316.7" y="38" font-size="20" font-weight="800" fill="#4D82E8" text-anchor="middle">27</text>
